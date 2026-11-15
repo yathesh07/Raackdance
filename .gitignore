@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+_audit/assets
+_audit/*.tar
+_audit/*.tgz
+supabase/.temp
+.DS_Store

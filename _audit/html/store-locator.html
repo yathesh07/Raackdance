@@ -1,0 +1,1630 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raack - Dance Schools in Chennai, Best Dance Studio in Chennai, Dance classes for Kids, Adults Chennai</title>
+
+  <meta name="description"
+    content="Raack, Dance Schools in Chennai, Best Dance Studio in Chennai, Dance Classes for kids Chennai, Dance Classes for Adults Chennai, Dance Classes in Old Pallavaram, Mannivakkam, Chidambaram, Hasthinapuram, Thiruverkadu, Surapet, Maraimalai Nagar, Padur, Medavakkam, Ambattur, Padappai.">
+
+  <meta name="keyword"
+    content="Dance schools in Chennai, Dance classes in Chennai, Dance studios in Chennai, Dance academy in Chennai, Dance classes in Old Pallavaram, Dance classes in Mannivakkam, Dance classes in Chidambaram, Dance classes in Hasthinapuram, Dance classes in Thiruverkadu, Dance classes in Surapet, Dance classes in Maraimalai Nagar, Dance classes in Padur, Dance classes in Medavakkam, Dance classes in Ambattur, Dance classes in Padappai, Dance classes for adults Chennai, Dance classes for kids Chennai.">
+
+  <!-- FAVICON LINK -->
+  <link rel="shortcut icon" href="images-raack/logo.png" type="image/x-icon">
+  <!-- STYLESHEETS -->
+  <link rel="stylesheet" type="text/css" href="css/vendor/animate.min.css">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" type="text/css" href="css/vendor/bootstrap.min.css">
+  <!-- FONT AWESOME -->
+  <link rel="stylesheet" type="text/css" href="css/vendor/fontawesome.min.css">
+  <!-- CALENDER -->
+  <link rel="stylesheet" type="text/css" href="css/vendor/calendar.css">
+  <!-- CAROUSEL STYLE LINK Test -->
+  <link rel="stylesheet" type="text/css" href="css/vendor/owl-carousel/owl.carousel.css">
+  <link rel="stylesheet" type="text/css" href="css/vendor/owl-carousel/owl.theme.css">
+
+  <link rel="stylesheet" href="css/vendor/owl-carousel/owl.carousel2.min.css">
+  <link rel="stylesheet" href="css/vendor/owl-carousel/owl.theme.default.min.css">
+
+  <!-- CUSTOM CSS -->
+  <link rel="stylesheet" type="text/css" href="css/custom/style.css">
+  <link rel="stylesheet" type="text/css" href="css/custom/my.css">
+
+  <!-- Font Awesome 6.7.2 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <!-- Google Fonts (Inter) for premium typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,600;14..32,700;14..32,800;14..32,900&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* Search suggestions dropdown */
+
+
+    .search-wrapper {
+      position: relative;
+    }
+
+    .suggestions-dropdown {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ddd;
+      border-top: none;
+      border-radius: 0 0 8px 8px;
+      max-height: 200px;
+      overflow-y: auto;
+      z-index: 1000;
+      display: none;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .suggestions-dropdown.active {
+      display: block;
+    }
+
+    .suggestion-item {
+      padding: 10px 15px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border-bottom: 1px solid #f5f5f5;
+      transition: background 0.2s;
+      color: #000;
+    }
+
+    .suggestion-item:hover {
+      background: #f8f8f8;
+    }
+
+    .suggestion-item i {
+      color: #d31b20;
+      font-size: 14px;
+      width: 20px;
+    }
+
+    .suggestion-item .suggestion-name {
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .suggestion-item .suggestion-city {
+      font-size: 12px;
+      color: #888;
+      margin-left: auto;
+    }
+
+    .search-box {
+      position: relative;
+    }
+
+    .search-box input {
+      padding-right: 45px;
+    }
+
+    #searchBtn {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      cursor: pointer;
+      color: #d31b20;
+      font-size: 18px;
+    }
+
+    /* My Location button */
+    .my-location-btn {
+      position: absolute;
+      bottom: 30px;
+      right: 30px;
+      z-index: 1000;
+      background: white;
+      border: none;
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #d31b20;
+      font-size: 18px;
+    }
+
+    .my-location-btn:hover {
+      transform: scale(1.1);
+      background: #f5f5f5;
+    }
+
+    .my-location-btn.loading {
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    /* Pin icon style for Leaflet */
+    .custom-div-icon {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+    }
+
+    .custom-div-icon .pin-container {
+      position: relative;
+      width: 40px;
+      height: 40px;
+    }
+
+    .custom-div-icon .pin {
+      width: 32px;
+      height: 32px;
+      background: #d31b20;
+      border: 3px solid white;
+      border-radius: 50% 50% 50% 0;
+      transform: rotate(-45deg);
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .custom-div-icon .pin i {
+      transform: rotate(45deg);
+      color: white;
+      font-size: 14px;
+    }
+
+    .custom-div-icon .pin::after {
+      content: '';
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      background: white;
+      border-radius: 50%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0.3;
+    }
+
+    /* Pulse animation for location */
+    .pulse-ring {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: rgba(211, 27, 32, 0.2);
+      border-radius: 50%;
+      animation: pulse 1.5s ease-out infinite;
+    }
+
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+        opacity: 1;
+      }
+
+      100% {
+        transform: scale(2.5);
+        opacity: 0;
+      }
+    }
+
+    .leaflet-control-attribution {
+      font-size: 9px !important;
+    }
+  </style>
+</head>
+
+<body data-spy="scroll" data-target="#navbarSupportedContent" data-offset="100">
+  <!--======================================================== NAVIGATION START ===========================================-->
+  <div id="header"></div>
+  <!--======================================= NAVIGATION END ==============================-->
+
+  <!-- ===== HERO ===== -->
+  <section>
+    <div class="container-fluid">
+      <div class="studio-loc">
+        <div class="row hero-row">
+          <!-- left panel -->
+          <div class="col-md-4">
+            <div class="content-search">
+              <div class="eyebrow"><i class="fas fa-compass"></i> FIND YOUR NEAREST</div>
+              <h1>RAACK <span>STUDIO</span></h1>
+              <p><i class="fas fa-map-pin" style="opacity:0.7; margin-right:6px;"></i> 45+ dance studios across Tamil
+                Nadu</p>
+              <div class="search-wrapper">
+                <div class="search-box">
+                  <input type="text" id="searchInput" placeholder="Search your location..." autocomplete="off" />
+                  <i class="fas fa-search" id="searchBtn"></i>
+                </div>
+                <div class="suggestions-dropdown" id="suggestionsDropdown"></div>
+              </div>
+              <div class="stats">
+                <div class="stat">
+                  <div class="icon"><i class="fas fa-location-dot"></i></div>
+                  <div class="num">45+</div>
+                  <div class="label">Locations</div>
+                </div>
+                <div class="stat">
+                  <div class="icon"><i class="fas fa-city"></i></div>
+                  <div class="num">28</div>
+                  <div class="label">Year of Experience</div>
+                </div>
+                <div class="stat">
+                  <div class="icon"><i class="fas fa-user-graduate"></i></div>
+                  <div class="num">1,00,000+</div>
+                  <div class="label">Students Trained</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- right: map + card (address + direction) -->
+          <div class="col-md-8">
+            <div class="row g-0 map-info-row" style="height:100%;">
+              <div class="col-md-8 map-col" style="position:relative;">
+                <div id="map"></div>
+                <!-- My Location Button -->
+                <button class="my-location-btn" id="myLocationBtn" title="Find my location">
+                  <i class="fas fa-location-crosshairs"></i>
+                </button>
+              </div>
+              <div class="col-md-4 info-card" id="infoCard">
+                <div class="loc-title"><i class="fas fa-map-pin"></i> <span id="infoName">Select a location</span></div>
+                <div class="info-photo"><span class="brand"><i class="fas fa-music"></i> RAACK</span></div>
+
+                <!-- ADDRESS BLOCK -->
+                <div class="address-block" id="addressBlock">
+                  <div class="addr-line"><i class="fas fa-location-dot"></i> <span id="infoAddress">Choose a studio from
+                      the map or search above</span></div>
+                  <div class="addr-line"><i class="fas fa-phone"></i> <span id="infoPhone">—</span></div>
+                </div>
+
+                <a href="#" target="_blank" class="btn-direction" style="pointer-events:none; opacity:0.6;"
+                  id="storeLink">
+                  <i class="fas fa-globe"></i> About Studio
+                </a>
+
+                <!-- DIRECTION BUTTON -->
+                <a href="#" target="_blank" class="btn-direction" id="directionBtn"
+                  style="pointer-events:none; opacity:0.6;">
+                  <i class="fas fa-directions"></i> Direction
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== OUR LOCATIONS ===== -->
+<section class="popular ">
+  <div class="container-fluid">
+    <div class="section-title">
+      <span class="line"></span>
+      <h2>
+        <i class="fas fa-star" style="color:#d31b20; margin-right:10px;"></i>
+        Our Locations
+      </h2>
+      <span class="line right"></span>
+    </div>
+
+    <div class="location-grid">
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/chennai.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Chennai</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/puducherry.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Puducherry</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/bengaluru.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Bengaluru</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/thanjavur.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Thanjavur</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/kumbakonam.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Kumbakonam</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/chidambaram.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Chidambaram</div>
+        </div>
+      </div>
+
+      <div class="slider-item">
+        <div class="thumb1">
+          <img src="images-raack/store-locater/cuddalore.jpg" style="width: 100%;" alt="Chennai" loading="lazy" />
+          <div class="name"><i class="fas fa-location-dot"></i> Cuddalore</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- <script>
+    // Our location script
+    document.querySelectorAll("#sliderTrack .slider-item").forEach(function (item) {
+      item.addEventListener("click", function () {
+        const id = parseInt(this.dataset.id);
+        const studio = studios.find(s => s.id === id);
+
+        if (studio) {
+          selectStudio(studio);
+        }
+      });
+    });
+  </script> -->
+
+  <script>
+    document.querySelectorAll("#sliderTrack .slider-item").forEach(function (item) {
+      item.style.cursor = "default";
+    });
+    // ----- STUDIO DATA (all locations) with full address -----
+    var studios = [{
+      id: 0,
+      name: "Kilpauk",
+      address: "28/1, Rajaratnam St, Kilpauk, Chennai, Tamil Nadu 600010",
+      city: "Chennai",
+      phone: "+91 9543345345 / 9841429355",
+      lat: 13.0791555,
+      lng: 80.2412978,
+      storeUrl: "studios-kilpauk.html",
+      hours: "6:00 AM – 10:00 PM",
+      offer: "Free trial class",
+      status: "OPEN TODAY"
+    }, {
+      id: 1,
+      name: "Mylapore",
+      address: "51, Ramakrishna Mutt Rd, opp. P.S Matriculation School, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      city: "Chennai",
+      phone: "+91 9543345345 / 9841429355",
+      lat: 13.0305906,
+      lng: 80.2669684,
+      storeUrl: "studios-mylapore.html",
+      hours: "6:00 AM – 9:00 PM",
+      offer: "Weekend discount",
+      status: "OPEN TODAY"
+    }, {
+      id: 2,
+      name: "Velachery",
+      address: "Sri Supra Towers, Plot No 22, 3rd Cross St, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      city: "Chennai",
+      phone: "+91 9003024113 / 9543345345",
+      lat: 12.9723794,
+      lng: 80.2183968,
+      storeUrl: "studios-velachery.html",
+      hours: "7:00 AM – 10:00 PM",
+      offer: "Student pass",
+      status: "OPEN TODAY"
+    }, {
+      id: 3,
+      name: "Cuddalore",
+      address: "No,7, Link Rd, Thirupapuliyur, Cuddalore, Tamil Nadu 600001",
+      city: "Chennai",
+      phone: "+91 9003302927 / 9500921667",
+      lat: 11.7616458,
+      lng: 79.7479487,
+      storeUrl: "studios-cuddalore.html",
+      hours: "5:30 AM – 9:30 PM",
+      offer: "Morning batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 4,
+      name: "Tambaram",
+      address: "No 7&8, 100 Feet Main Road Sri Ram Nagar, Selaiyur, Tambaram, near Camp Road, Mahalakshmi Nagar, Signal, Chennai, Tamil Nadu 600073",
+      city: "Chennai",
+      phone: "+91 7845055523  / 9962609365",
+      lat: 12.9235335,
+      lng: 80.1427414,
+      storeUrl: "studios-tambaram.html",
+      hours: "6:30 AM – 10:00 PM",
+      offer: "Family pack",
+      status: "OPEN TODAY"
+    }, {
+      id: 5,
+      name: "Mogappair",
+      address: "No. 36, D N Plaza, Thiruvalluvar Salai, Thiruvalluvar Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600037",
+      city: "Chennai",
+      phone: "+91 9840339994",
+      lat: 13.0858389,
+      lng: 80.1796866,
+      storeUrl: "studios-mogappair.html",
+      hours: "6:00 AM – 9:00 PM",
+      offer: "Referral bonus",
+      status: "OPEN TODAY"
+    }, {
+      id: 6,
+      name: "Thoraipakkam",
+      address: "PLOT NO 3 AND 4, WEST WING, 200 Feet Radial Rd, Vinayaganagar, MCN Nagar Extension, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      city: "Chennai",
+      phone: "+91 8778437344",
+      lat: 12.949645,
+      lng: 80.2356033,
+      storeUrl: "studios-thoraipakkam.html",
+      hours: "7:00 AM – 10:00 PM",
+      offer: "Corporate plan",
+      status: "OPEN TODAY"
+    }, {
+      id: 7,
+      name: "Ambathur",
+      address: "First floor 125 Redhills Road Vijayalakshmipuram, Ambathur, near Pommys, Rajiv Gandhi Nagar, Vijayalakshmi Puram, Oragadam, Chennai, Tamil Nadu 600053",
+      city: "Chennai",
+      phone: "+91 9940011227 / 9841029322",
+      lat: 13.1265896,
+      lng: 80.1535929,
+      storeUrl: "studios-ambattur.html",
+      hours: "6:00 AM – 9:30 PM",
+      offer: "Military discount",
+      status: "OPEN TODAY"
+    }, {
+      id: 8,
+      name: "Avadi",
+      address: "No-1116, Vivekananda Nagar, TNHB Mig V Block, Avadi, Tamil Nadu 600054",
+      city: "Chennai",
+      phone: "+91 9940698798 / 9841029322",
+      lat: 13.1113519,
+      lng: 80.1031989,
+      storeUrl: "studios-avadi.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Early bird",
+      status: "OPEN TODAY"
+    }, {
+      id: 9,
+      name: "Keelkattalai",
+      address: "First floor, 78, Medavakkam Main Rd, opp. Andhra Bank, Rajamanickam Nagar, Keelkattalai, Chennai, Tamil Nadu 600117",
+      city: "Chennai",
+      phone: "+91 7550283439 / 994516090",
+      lat: 12.9576132,
+      lng: 80.1862649,
+      storeUrl: "studios-keelkattalai.html",
+      hours: "5:30 AM – 10:00 PM",
+      offer: "Premium pass",
+      status: "OPEN TODAY"
+    }, {
+      id: 10,
+      name: "Mugalivakkam",
+      address: "2, Vembadi Vinayakar Koil Rd, AGS Colony, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      city: "Chennai",
+      phone: "+91 9940329429 / 9710939240",
+      lat: 13.0207029,
+      lng: 80.1636982,
+      storeUrl: "studios-mugalivakkam.html",
+      hours: "6:00 AM – 10:00 PM",
+      offer: "Shopping voucher",
+      status: "OPEN TODAY"
+    }, {
+      id: 11,
+      name: "Neelankarai",
+      address: " no - 2/796 sakshi towers, kazura garden 1st, East Coast Rd, opp. hot chips, Kazura Garden, Neelankarai, Chennai, Tamil Nadu 600115 ",
+      city: "Chennai",
+      phone: "+91 9841429355",
+      lat: 12.9565843,
+      lng: 80.2540512,
+      storeUrl: "studios-neelankarai.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 12,
+      name: "Kolathur",
+      address: "No,13/14, 200, ft road, Ambethkar Nagar, Ambedkar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+      city: "Chennai",
+      phone: "+91 9841522220",
+      lat: 13.1263972,
+      lng: 80.207454,
+      storeUrl: "studios-kolathur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 13,
+      name: "Pallikaranai",
+      address: " Bus Stop, 5, Sengalani Amman Koil Street, near Domino's Pizza, opposite to Narayanapuram, IIT Colony, Narayanapuram, Pallikaranai, Chennai, Tamil Nadu 600100",
+      city: "Chennai",
+      phone: "+91 9500078970",
+      lat: 12.9400168,
+      lng: 80.205873,
+      storeUrl: "studios-pallikaranai.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 14,
+      name: "Sholinganallur",
+      address: "2A, Elcot Ave Main Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+      city: "Chennai",
+      phone: "+91 9840339506",
+      lat: 12.8969393,
+      lng: 80.2269855,
+      storeUrl: "studios-sholinganallur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 15,
+      name: "Padappai",
+      address: "Old no 539/2, Plot no. 15, Ground floor, Hajiyar Nagar, NGO Colony Main Road Padappai, Chennai, Kancheepuraam, Tamil Nadu 601301",
+      city: "Chennai",
+      phone: "+91 9840642837",
+      lat: 12.887616487884012,
+      lng: 79.87127065658566,
+      storeUrl: "studios-padappai.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 16,
+      name: "Old Perungalathur",
+      address: "Bus stop, No: 3, Mudichur Rd, near Bharathi Nagar, Gandhi Nagar, Old Perungalathur, Chennai, Tamil Nadu 600063",
+      city: "Chennai",
+      phone: "+91 9500001292",
+      lat: 12.9210742,
+      lng: 80.0910335,
+      storeUrl: "studios-old-perungalathur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 17,
+      name: "Guduvancheri",
+      address: "No. 1 Vishnu Priya Nagar, Nellikuppam Road Kayarembedu Village, near Velammal School, Guduvancheri, Moolakazhani, Tamil Nadu 603202",
+      city: "Chennai",
+      phone: "+91 9500919990 / 8754537733",
+      lat: 12.8252369,
+      lng: 80.0754129,
+      storeUrl: "studios-guduvanchery.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 18,
+      name: "Ramapuram",
+      address: "Valluvar Salai, near : Arasa Maram, opp. to HP Petrol bunk Top of indian bank, Gokulam Colony, Ramapuram, Chennai, Tamil Nadu 600089",
+      city: "Chennai",
+      phone: "+91 6379671663",
+      lat: 13.0322357,
+      lng: 80.1835615,
+      storeUrl: "studios-ramapuram.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 19,
+      name: "Puducherry",
+      address: " 2nd floor, 349, Mahatma Gandhi Rd, above Nike Showroom, next to Petit Seminaire Higher Secondary School, MG Road Area, Puducherry, 605001",
+      city: "Puducherry",
+      phone: "+91 9841712232",
+      lat: 11.93365,
+      lng: 79.8289206,
+      storeUrl: "studios-pondicherry.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 20,
+      name: "Saidapet",
+      address: "54, Alandur Rd, Abith Colony, Industrial Area, Saidapet, Chennai, Tamil Nadu 600015",
+      city: "Chennai",
+      phone: "+91 9789997040 / 9884821285",
+      lat: 13.0196563,
+      lng: 80.2202564,
+      storeUrl: "studios-saidapet.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 21,
+      name: "Old Pallavaram",
+      address: " No:95, 1st Floor, Gokulam Complex, PV Vaithiyalingam Rd, above City Union Bank, Zamin Pallavaram, Raja Joseph Colony, Old Pallavaram, Chennai, Tamil Nadu 600043",
+      city: "Chennai",
+      phone: "+91 9150188688 / 9962374879",
+      lat: 12.9616515,
+      lng: 80.1593791,
+      storeUrl: "studios-oldpallavaram.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 22,
+      name: "Mannivakkam",
+      address: "15, Mudichur Rd, Nehru Colony, Mannivakkam, Chennai, Tamil Nadu 600048",
+      city: "Chennai",
+      phone: "+91 9500001292",
+      lat: 12.9017244,
+      lng: 80.0652806,
+      storeUrl: "studios-mannivakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 23,
+      name: "Ayappakkam",
+      address: "R73/A, Ayapakkam Housing Board Rd, Rajammal nagar, TNHB Colony, Annanur, Ayappakkam, Chennai, Tamil Nadu 600077",
+      city: "Chennai",
+      phone: "+91 9600769789 / 8925324525",
+      lat: 13.1032152,
+      lng: 80.1338022,
+      storeUrl: "studios-ayapakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 24,
+      name: "Chidambaram",
+      address: "Raack Academy of Dance No:27, M, 1st Floor, J. Tower, Kamaleeshwaran Koil St, Chidambaram, Tamil Nadu 608001",
+      city: "Chidambaram",
+      phone: "+91 9600919177",
+      lat: 11.3992556,
+      lng: 79.6971672,
+      storeUrl: "studios-chidambaram.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 25,
+      name: "Hasthinapuram",
+      address: "15 Gayathri Nagar, Water Tank, Opp Street to SBI bank, Dr Rajendra Prasad Rd, opp. to Gayathri Nagar, Velmurugan Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu 600064",
+      city: "Chennai",
+      phone: "+91 7695890080 / 8925253052",
+      lat: 12.9405166,
+      lng: 80.1484205,
+      storeUrl: "studios-hasthinapuram.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 26,
+      name: "Thiruverkadu",
+      address: "30, Sivan Kovil Rd, Thiruverkadu, Chennai, Thiruverkadu, Tamil Nadu 600077",
+      city: "Chennai",
+      phone: "+91 8925515104 / 8825957192",
+      lat: 13.0714008,
+      lng: 80.1175011,
+      storeUrl: "studios-thiruverkadu.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 27,
+      name: "Surapet",
+      address: "Plot no 249, Ambattur Red Hills Rd, Sivaprakasam Nagar, Surapet, Chennai, Tamil Nadu 600066",
+      city: "Chennai",
+      phone: "+91 8838723149",
+      lat: 13.142139,
+      lng: 80.1847691,
+      storeUrl: "studios-surapet.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 28,
+      name: "Maraimalai Nagar",
+      address: "No. 1/73, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      city: "Chennai",
+      phone: "+91 9884726634 / 8925531580",
+      lat: 12.7933033,
+      lng: 80.0256329,
+      storeUrl: "studios-maraimalainagar.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 29,
+      name: "Padur",
+      address: "First floor, 1/200, OMR Rd, above Federal Bank, Padur, Chennai, Tamil Nadu 603103",
+      city: "Chennai",
+      phone: "+91 9363739997 / 9363719997",
+      lat: 12.8047283,
+      lng: 80.223826,
+      storeUrl: "studios-padur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 30,
+      name: "Arumbakkam",
+      address: "No 2 , Vallalar street, 1st Main Rd, Jai Nagar, Arumbakkam, Chennai, Tamil Nadu 600106",
+      city: "Chennai",
+      phone: "+91 9500168676 / 9884188848",
+      lat: 13.0726032,
+      lng: 80.2083569,
+      storeUrl: "studios-arumbakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 31,
+      name: "Medavakkam",
+      address: "7/492C, Third Floor, Velachery Main Rd, Ranganathapuram, Medavakkam, Chennai, Medavakkam, Tamil Nadu 600100",
+      city: "Chennai",
+      phone: "+91 95000 78970 ",
+      lat: 12.9197255,
+      lng: 80.1799319,
+      storeUrl: "studios-medavakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 32,
+      name: "Sithalapakkam",
+      address: "No.3/993, Plot 405, Survey No, 1st Floor, TNHB, 5/3, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Chennai, Tamil Nadu 600126",
+      city: "Chennai",
+      phone: "+91 9003024113 / 9543345345",
+      lat: 12.8906139,
+      lng: 80.1754781,
+      storeUrl: "studios-sithalapakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 33,
+      name: "Perumbakkam",
+      address: "Block 1st Floor, Sekaran's The ARC B, 225/1, Rose Garden St, Nesamani Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",
+      city: "Chennai",
+      phone: "+91 9003024113 / 9543345345",
+      lat: 12.8959297,
+      lng: 80.1972856,
+      storeUrl: "studios-perumbakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 34,
+      name: "Basavanagudi",
+      address: "Ward No 154, Subbarama Chetty Rd, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004",
+      city: "Bengaluru",
+      phone: "+91 7795945777",
+      lat: 12.9383369,
+      lng: 77.570942,
+      storeUrl: "studios-basavanagudi.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 35,
+      name: "Pudupakkam",
+      address: "2nd floor, GK Towers, No 4/16, MR Radha Rd, Pudupakkam, Chennai, Tamil Nadu 603103",
+      city: "Chennai",
+      phone: "+91 9003024113 / 9543345345",
+      lat: 12.8213225,
+      lng: 80.2036161,
+      storeUrl: "studios-pudupakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 36,
+      name: "Pammal",
+      address: "219, 39th St, Easwari Nagar, Shankar Nagar, Pammal, Chennai, Tamil Nadu 600075, India",
+      city: "Chennai",
+      phone: "+91 9790938508 / 7200117109",
+      lat: 12.96449,
+      lng: 80.125699,
+      storeUrl: "studios-pammal.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 37,
+      name: "urapakkam",
+      address: "16, Railway Station Road, Selvaraj Nagar, Vardhaman Nagar, Chennai, Tamil Nadu 603211",
+      city: "Chennai",
+      phone: "+91 8754537733",
+      lat: 12.8676276,
+      lng: 80.0675423,
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 38,
+      name: "Thanjavur",
+      address: "Devi Towers, MIG-81/87, Marutham St, New Housing Unit, Thanjavur, Tamil Nadu 613005",
+      city: "Thanjavur",
+      phone: "+91 9003009391",
+      lat: 10.7549068,
+      lng: 79.120498,
+      storeUrl: "studios-thanjavur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 39,
+      name: "Kumbakonam",
+      address: "97, John Selvaraj Nagar Rd, John Selvaraj Nagar, Kumbakonam, Tamil Nadu - 612001",
+      city: "Kumbakonam",
+      phone: "+91 8220040048",
+      lat: 10.9589797,
+      lng: 79.3901757,
+      storeUrl: "studios-kumbakonam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 40,
+      name: "Maduravoyal",
+      address: "No.3, Singaravel nagar 2nd street, pallavan nagar main road, Maduravoyal, 600095",
+      city: "Chennai",
+      phone: "+91 8122868091",
+      lat: 13.0626157,
+      lng: 80.1687702,
+      storeUrl: "studios-maduravoyal.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 41,
+      name: "Kandigai",
+      address: "3rd Floor, Thiru Thamizh Tower Melakottaiyur, Kelambakkam - Vandalur Rd, Kandigai, Chennai, Tamil Nadu 600127.",
+      city: "Chennai",
+      phone: "+91 9500097045",
+      lat: 12.8496318,
+      lng: 80.1414945,
+      storeUrl: "studios-kandigai.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 42,
+      name: "Kundrathur",
+      address: "Pallavaram - Kundrathur Rd, 70/3, Main Rd, Aandankuppam, Kundrathur, Chennai, Tamil Nadu 600069",
+      city: "Chennai",
+      phone: "+91 7550214655",
+      lat: 12.9966561,
+      lng: 80.1075614,
+      storeUrl: "studios-kundrathur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 43,
+      name: "Kelambakkam",
+      address: "22/1C1A & 22/1C1B Third Floor, Rajiv Gandhi Salai (OMR), Kelambakkam, Chennai - 603 103 (above TVS Showroom)",
+      city: "Chennai",
+      phone: "+91 9363739997",
+      lat: 12.782572,
+      lng: 80.218196,
+      storeUrl: "studios-kelambakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 44,
+      name: "Madambakkam",
+      address: "638, 3rd St, Shanthi Nikethan Colony, Sudharsan Nagar, Madambakkam, Chennai, Tamil Nadu 600073",
+      city: "Chennai",
+      phone: "+91 8438962316",
+      lat: 12.9080625,
+      lng: 80.1576875,
+      storeUrl: "studios-madambakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 45,
+      name: "Navalur",
+      address: "S2, Second floor, 3/46, Rajiv Gandhi Salai, OMR, Navalur, Chennai, Tamil Nadu 600130",
+      city: "Chennai",
+      phone: "+91 9677899303 / 8754622303",
+      lat: 12.8479475,
+      lng: 80.2268036,
+      storeUrl: "studios-navalur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 46,
+      name: "Iyyappanthangal",
+      address: "9, First main road, Krishnaveni ammal nagar, Opp Grace Supermarket, Oil Mill Road, Iyyappanthangal, Chennai - 600056",
+      city: "Chennai",
+      phone: "+91 9790974123",
+      lat: 13.042011,
+      lng: 80.1370199,
+      storeUrl: "studios-iyyappanthangal.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 47,
+      name: "Mappedu",
+      address: "plot no. 37, AKB Solitire, anna main road, Mappedu - Vengambakkam Rd, Kaspapuram, Chennai, Tamil Nadu 600126",
+      city: "Chennai",
+      phone: "+91 97905 00510",
+      lat: 12.8795023,
+      lng: 80.1352585,
+      storeUrl: "studios-mappedu.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 48,
+      name: "Vyasarpadi",
+      address: "1st Floor, 6, 1st St, opposite to RADIANCE EMPIRE, Avvai Nagar, Vyasar Nagar Colony, Vyasarpadi, Chennai, Tamil Nadu 600039",
+      city: "Chennai",
+      phone: "+91 9840283265",
+      lat: 13.1099487,
+      lng: 80.253456,
+      storeUrl: "studios-vyasarbadi.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }, {
+      id: 49,
+      name: "Kolapakkam",
+      address: "2, Anna Main Road, Mahalakshmi Nagar, Kolapakkam, Chennai, Tamil Nadu - 600128",
+      city: "Chennai",
+      phone: "+91 8925928565",
+      lat: 13.0113089,
+      lng: 80.153002,
+      storeUrl: "studios-kolapakkam.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    },
+    {
+      id: 50,
+      name: "Polachery",
+      address: "Flat.no 6, DABC main road, Bliss in the town, phase-3, polachery, chennai-600127",
+      city: "Chennai",
+      phone: "+91 9962996468",
+      lat: 12.8453353,
+      lng: 80.1756238,
+      storeUrl: "studios-polachery.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    },
+    {
+      id: 51,
+      name: "Kattur",
+      address: "3rd Floor, Ideal Towers, Thanjai Main Road, Kattur, Trichy - 620019",
+      city: "Chennai",
+      phone: "+91 7550046563",
+      lat: 10.797293,
+      lng: 78.7533856,
+      storeUrl: "studios-kattur.html",
+      hours: "6:30 AM – 9:30 PM",
+      offer: "Beach batch",
+      status: "OPEN TODAY"
+    }
+  
+  ];
+
+
+    // ----- GLOBALS -----
+    var map, markers = [];
+    var currentMarker = null;
+    var userLocationMarker = null;
+    var userCircle = null;
+    var isFirstLoad = true; // Flag to track first load
+
+    // ----- CUSTOM ICON for Leaflet (Pin style) -----
+    function createCustomIcon(color = '#d31b20') {
+      return L.divIcon({
+        className: 'custom-div-icon',
+        html: `
+          <div class="pin-container">
+            <div class="pin" style="background: ${color};">
+              <i class="fas fa-child"></i>
+            </div>
+          </div>
+        `,
+        iconSize: [40, 40],
+        iconAnchor: [20, 40],
+        popupAnchor: [0, -40]
+      });
+    }
+
+    // ----- INIT MAP -----
+    function initMap() {
+  // 1. Create the map first
+  map = L.map("map").setView([13.045, 80.220], 12);
+
+  // 2. Add CARTO tiles
+  const cartoApiKey = "cb1_4afw_1_197febd6baa21574697afc8e";
+
+  const tiles = L.tileLayer(
+    "https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=" +
+      encodeURIComponent(cartoApiKey),
+    {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+        '&copy; <a href="https://carto.com/">CARTO</a>',
+      maxZoom: 20
+    }
+  );
+
+  tiles.on("tileerror", function (event) {
+    console.error("CARTO tile failed to load", event.error);
+  });
+
+  tiles.addTo(map);
+
+  // 3. Add your studio markers
+  addMarkers();
+
+      // Show complete Chennai view
+      // const bounds = L.latLngBounds();
+
+      // studios.forEach(studio => {
+      //   if (studio.city === "Chennai") {
+      //     bounds.extend([studio.lat, studio.lng]);
+      //   }
+      // });
+
+      // map.fitBounds(bounds, {
+      //   padding: [40, 40]
+      // });
+
+      // Populate slider
+
+      // NO DEFAULT STUDIO SELECTED - Leave info card in neutral state
+
+      // ----- MY LOCATION BUTTON -----
+      const myLocationBtn = document.getElementById('myLocationBtn');
+      myLocationBtn.addEventListener('click', function () {
+        this.classList.add('loading');
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(
+            function (position) {
+              myLocationBtn.classList.remove('loading');
+              const lat = position.coords.latitude;
+              const lng = position.coords.longitude;
+              map.setView([lat, lng], 15);
+              findNearestStudio(lat, lng);
+              // Remove previous user location markers
+              if (userLocationMarker) map.removeLayer(userLocationMarker);
+              if (userCircle) map.removeLayer(userCircle);
+
+              // Add user location marker
+              userLocationMarker = L.marker([lat, lng], {
+                icon: L.divIcon({
+                  className: 'custom-div-icon',
+                  html: `
+                    <div style="position:relative;">
+                      <div class="pulse-ring"></div>
+                      <div style="
+                        width: 16px;
+                        height: 16px;
+                        background: #2196F3;
+                        border: 3px solid white;
+                        border-radius: 50%;
+                        box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+                        position: relative;
+                        z-index: 2;
+                      "></div>
+                    </div>
+                  `,
+                  iconSize: [30, 30],
+                  iconAnchor: [15, 15]
+                })
+              }).addTo(map);
+
+              // Add accuracy circle
+              userCircle = L.circle([lat, lng], {
+                radius: position.coords.accuracy || 100,
+                color: '#2196F3',
+                fillColor: '#2196F3',
+                fillOpacity: 0.1,
+                weight: 2
+              }).addTo(map);
+
+              // Find nearest studio
+              findNearestStudio(lat, lng);
+            },
+            function (error) {
+              myLocationBtn.classList.remove('loading');
+              alert('Unable to get your location. Please check your browser settings.');
+              console.error('Geolocation error:', error);
+            },
+            {
+              enableHighAccuracy: true,
+              timeout: 5000,
+              maximumAge: 0
+            }
+          );
+        } else {
+          myLocationBtn.classList.remove('loading');
+          alert('Geolocation is not supported by your browser.');
+        }
+      });
+
+      // ----- SEARCH with Nominatim (free geocoding) -----
+      const input = document.getElementById('searchInput');
+      const searchBtn = document.getElementById('searchBtn');
+      const suggestionsDropdown = document.getElementById('suggestionsDropdown');
+
+      // Search function
+      function performSearch(query) {
+
+        query = query.trim();
+
+        if (!query) {
+          suggestionsDropdown.classList.remove("active");
+          return;
+        }
+
+        // Hide suggestions
+        suggestionsDropdown.classList.remove("active");
+
+        // -------------------------------------------------
+        // 1. Search RAACK Studio Name
+        // -------------------------------------------------
+        const studio = studios.find(s =>
+          s.name.toLowerCase().includes(query.toLowerCase()) ||
+          s.city.toLowerCase().includes(query.toLowerCase()) ||
+          s.address.toLowerCase().includes(query.toLowerCase())
+        );
+
+        if (studio) {
+
+          input.value = studio.name;
+
+          selectStudio(studio);
+
+          map.flyTo([studio.lat, studio.lng], 17, {
+            animate: true,
+            duration: 1.5
+          });
+
+          return;
+        }
+
+        // -------------------------------------------------
+        // 2. Search Any Place in India
+        // -------------------------------------------------
+
+        fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&countrycodes=in&limit=1`)
+          .then(res => res.json())
+          .then(results => {
+
+            // -----------------------------------------
+            // Place Found
+            // -----------------------------------------
+
+            if (results.length > 0) {
+
+              const place = results[0];
+
+              const lat = Number(place.lat);
+              const lng = Number(place.lon);
+
+              // Remove old search marker
+              if (currentMarker) {
+                map.removeLayer(currentMarker);
+              }
+
+              // Blue Search Marker
+              currentMarker = L.marker([lat, lng], {
+                icon: createCustomIcon("#2196F3")
+              }).addTo(map);
+
+              // Find nearest RAACK studio
+              const nearest = studios
+                .map(studio => ({
+                  ...studio,
+                  distance: calculateDistance(
+                    lat,
+                    lng,
+                    studio.lat,
+                    studio.lng
+                  )
+                }))
+                .sort((a, b) => a.distance - b.distance)[0];
+
+              // If within 50km automatically show
+              if (nearest.distance <= 50000) {
+
+                alert(
+                  `No RAACK studio at "${query}".\n\nShowing the nearest studio (${(nearest.distance / 1000).toFixed(1)} km away).`
+                );
+
+                selectStudio(nearest);
+
+                map.flyTo([nearest.lat, nearest.lng], 16, {
+                  animate: true,
+                  duration: 1.5
+                });
+
+                document.getElementById("infoName").innerHTML =
+                  `${nearest.name}, ${nearest.city}
+                        <br>
+                        <small style="color:#d31b20;font-weight:600;">
+                        📍 ${(nearest.distance / 1000).toFixed(1)} km away
+                        </small>`;
+
+              } else {
+
+                map.flyTo([lat, lng], 14);
+
+                alert("No nearby RAACK studio found.");
+
+              }
+
+            }
+
+            // -----------------------------------------
+            // Place NOT Found
+            // -----------------------------------------
+
+            else {
+
+              alert(`"${query}" location not found.`);
+
+            }
+
+          })
+
+          .catch(err => {
+
+            console.error(err);
+
+            alert("Unable to search location.");
+
+          });
+
+      }
+      // ----- AUTO-SUGGESTION (type as you search) -----
+      function showSuggestions(query) {
+        if (!query || query.trim().length < 1) {
+          suggestionsDropdown.classList.remove('active');
+          return;
+        }
+
+        const lowerQuery = query.toLowerCase().trim();
+        const matches = studios.filter(s =>
+          s.name.toLowerCase().includes(lowerQuery) ||
+          s.city.toLowerCase().includes(lowerQuery)
+        );
+
+        if (matches.length === 0) {
+          suggestionsDropdown.classList.remove('active');
+          return;
+        }
+
+        // Limit to 8 suggestions
+        const topMatches = matches.slice(0, 8);
+        suggestionsDropdown.innerHTML = '';
+        topMatches.forEach(studio => {
+          const div = document.createElement('div');
+          div.className = 'suggestion-item';
+          div.innerHTML = `
+            <i class="fas fa-location-dot"></i>
+            <span class="suggestion-name">${studio.name}</span>
+            <span class="suggestion-city">${studio.city}</span>
+          `;
+          div.addEventListener('click', function () {
+            selectStudio(studio);
+            // REMOVED: scrollToSliderItem(studio.id); - No longer scrolling to popular locations
+            input.value = studio.name;
+            suggestionsDropdown.classList.remove('active');
+          });
+          suggestionsDropdown.appendChild(div);
+        });
+        suggestionsDropdown.classList.add('active');
+      }
+
+      // Event listeners for search
+      searchBtn.addEventListener('click', function () {
+        performSearch(input.value);
+      });
+
+      input.addEventListener('keyup', function (e) {
+        if (e.key === 'Enter') {
+          searchBtn.click();
+          suggestionsDropdown.classList.remove('active');
+        } else {
+          showSuggestions(this.value);
+        }
+      });
+
+      input.addEventListener('focus', function () {
+        if (this.value.length > 0) {
+          showSuggestions(this.value);
+        }
+      });
+
+      // Close suggestions when clicking outside
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest('.search-wrapper')) {
+          suggestionsDropdown.classList.remove('active');
+        }
+      });
+    }
+
+    // ----- FIND NEAREST STUDIO -----
+    function findNearestStudio(userLat, userLng) {
+      let nearest = null;
+      let minDistance = Infinity;
+
+      studios.forEach(studio => {
+        const distance = calculateDistance(userLat, userLng, studio.lat, studio.lng);
+        if (distance < minDistance) {
+          minDistance = distance;
+          nearest = studio;
+        }
+      });
+
+      if (nearest) {
+        // Show nearest studio with a special marker
+        selectStudio(nearest);
+        // REMOVED: scrollToSliderItem(nearest.id); - No longer scrolling to popular locations
+
+        // Show notification
+        const infoName = document.getElementById('infoName');
+        infoName.innerHTML = `${nearest.name}, ${nearest.city} <span style="font-size:12px;color:#d31b20;font-weight:600;">📍 ${Math.round(minDistance)}m away</span>`;
+      }
+    }
+
+    // ----- CALCULATE DISTANCE (Haversine formula) -----
+    function calculateDistance(lat1, lon1, lat2, lon2) {
+      const R = 6371000; // Earth's radius in meters
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+        Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return R * c;
+    }
+
+    // ----- ADD MARKERS -----
+    function addMarkers() {
+      studios.forEach(function (studio) {
+        const marker = L.marker([studio.lat, studio.lng], {
+          icon: createCustomIcon('#d31b20')
+        }).addTo(map);
+
+        // Click -> select studio with animation
+        marker.on('click', function () {
+          selectStudio(studio);
+          // Bounce animation using CSS
+          const icon = this._icon;
+          if (icon) {
+            const pin = icon.querySelector('.pin');
+            if (pin) {
+              pin.style.animation = 'bounce 0.5s ease 3';
+              setTimeout(() => {
+                pin.style.animation = '';
+              }, 1500);
+            }
+          }
+        });
+
+        markers.push(marker);
+      });
+    }
+
+    // ----- SELECT STUDIO -----
+    function selectStudio(studio, showPopup = true) {
+      // Update info card
+      document.getElementById('infoName').textContent = studio.name + ', ' + studio.city;
+      document.getElementById('infoAddress').textContent = studio.address;
+      document.getElementById('infoPhone').textContent = studio.phone;
+
+      // Enable direction button
+      const dirBtn = document.getElementById('directionBtn');
+      dirBtn.style.pointerEvents = 'auto';
+      dirBtn.style.opacity = '1';
+
+      // Update direction link
+      const dirUrl = `https://www.google.com/maps/dir/?api=1&destination=${studio.lat},${studio.lng}&travelmode=driving`;
+      document.getElementById('directionBtn').href = dirUrl;
+
+      // Store page link
+      const storeBtn = document.getElementById('storeLink');
+      storeBtn.style.pointerEvents = 'auto';
+      storeBtn.style.opacity = '1';
+      storeBtn.href = studio.storeUrl;
+
+      // Center map
+      // map.setView([studio.lat, studio.lng], 15);
+      map.flyTo([studio.lat, studio.lng], 17, {
+        animate: true,
+        duration: 1.2
+      });
+
+      // Highlight marker with bounce
+      markers.forEach((m) => {
+        const icon = m._icon;
+        if (icon) {
+          const pin = icon.querySelector('.pin');
+          if (pin) {
+            pin.style.transform = 'rotate(-45deg) scale(1)';
+pin.style.transform = 'rotate(-45deg) scale(1.2)';
+          }
+        }
+      });
+
+      // Find and animate the selected marker
+      const selectedMarker = markers.find((m, i) => studios[i].id === studio.id);
+      if (selectedMarker && selectedMarker._icon) {
+        const pin = selectedMarker._icon.querySelector('.pin');
+        if (pin) {
+          pin.style.animation = 'bounce 0.5s ease 3';
+          pin.style.transform = 'scale(1.2)';
+          setTimeout(() => {
+            if (pin) {
+              pin.style.transform = 'rotate(-45deg) scale(1)';
+pin.style.transform = 'rotate(-45deg) scale(1.2)';
+            }
+          }, 1500);
+        }
+      }
+
+      // Open popup
+      if (selectedMarker) {
+        selectedMarker.bindPopup(`
+  <b>${studio.name}</b><br>
+  ${studio.address}<br>
+  <i class="fas fa-phone"></i> ${studio.phone}
+`);
+
+        if (showPopup) {
+          selectedMarker.openPopup();
+        }
+      }
+    }
+    // ----- SCROLL TO SLIDER ITEM (kept but not called from search) -----
+    function scrollToSliderItem(id) {
+      const items = document.querySelectorAll('.slider-item');
+      items.forEach(el => {
+        if (parseInt(el.dataset.id) === id) {
+          el.scrollIntoView({ behavior: 'smooth', inline: 'center' });
+        }
+      });
+    }
+
+    // ----- SLIDER NAV -----
+    document.addEventListener('DOMContentLoaded', function () {
+      var leftBtn = document.getElementById('scrollLeft');
+      var rightBtn = document.getElementById('scrollRight');
+      var slider = document.getElementById('sliderTrack');
+      if (leftBtn && rightBtn && slider) {
+        leftBtn.addEventListener('click', () => slider.scrollBy({ left: -280, behavior: 'smooth' }));
+        rightBtn.addEventListener('click', () => slider.scrollBy({ left: 280, behavior: 'smooth' }));
+        var checkEdges = () => {
+          var maxScroll = slider.scrollWidth - slider.clientWidth;
+          leftBtn.disabled = slider.scrollLeft <= 0;
+          rightBtn.disabled = slider.scrollLeft >= maxScroll - 1;
+        };
+        slider.addEventListener('scroll', checkEdges);
+        window.addEventListener('resize', checkEdges);
+        setTimeout(checkEdges, 100);
+      }
+
+      // Add bounce animation CSS for pin
+      const style = document.createElement('style');
+      style.textContent = `
+        @keyframes bounce {
+          0%, 100% { transform: translateY(0) scale(1) rotate(-45deg); }
+          50% { transform: translateY(-20px) scale(1.1) rotate(-45deg); }
+        }
+        .custom-div-icon {
+          transition: transform 0.3s ease;
+        }
+        .custom-div-icon:hover {
+          transform: scale(1.1);
+        }
+        .pulse-ring {
+          position: absolute;
+          top: -10px;
+          left: -10px;
+          width: 40px;
+          height: 40px;
+          background: rgba(33, 150, 243, 0.3);
+          border-radius: 50%;
+          animation: pulse-ring 1.5s ease-out infinite;
+        }
+        @keyframes pulse-ring {
+          0% { transform: scale(0.5); opacity: 1; }
+          100% { transform: scale(2); opacity: 0; }
+        }
+      `;
+      document.head.appendChild(style);
+    });
+
+    // Initialize map when page loads
+    // window.onload = initMap;
+function startStudioMap() {
+  if (typeof L === "undefined") {
+    console.error("Leaflet failed to load. Check leaflet.js in Network.");
+    return;
+  }
+
+  if (map) return;
+
+  initMap();
+
+  requestAnimationFrame(function () {
+    map.invalidateSize();
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", startStudioMap, {
+    once: true
+  });
+} else {
+  startStudioMap();
+}
+
+  </script>
+
+  <!--============================= FOOTER AREA START ======================-->
+  <div id="footer"></div>
+
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $("#footer").load("footer.html");
+      $("#header").load("header.html");
+    });
+  </script>
+  <!--=============================== FOOTER AREA END ========================-->
+  <!-- JQUERY LIBRARY -->
+  <script type="text/javascript" src="js/vendor/jquery.min.js"></script>
+  <!-- BOOTSTRAP -->
+  <script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
+  <!-- JQUERY VALIDATION -->
+  <script type="text/javascript" src="js/vendor/jquery.validate.min.js"></script>
+  <!--JQUERY COUNTER -->
+  <script type="text/javascript" src="js/vendor/counter/jquery.counterup.min.js"></script>
+  <script type="text/javascript" src="js/vendor/counter/counter-lib.js"></script>
+  <!-- SLIDER JS FILES -->
+  <script type="text/javascript" src="js/vendor/slider/owl-carousel.min.js"></script>
+  <script type="text/javascript" src="js/vendor/slider/owl-slider.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
+  <!-- THEME JS -->
+  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.min.js"></script>
+  <script type="text/javascript" src="js/vendor/jquery.animateTyping.min.js"></script>
+  <script type="text/javascript" src="js/custom/custom.js"></script>
+
+</body>
+
+</html>

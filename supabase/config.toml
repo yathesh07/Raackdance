@@ -1,0 +1,28 @@
+# Supabase CLI config (local dev). Production values live in the Supabase dashboard.
+project_id = "raack-academy"
+
+[api]
+port = 54321
+schemas = ["public", "storage"]
+
+[db]
+port = 54322
+major_version = 15
+
+[auth]
+site_url = "http://localhost:5173"
+additional_redirect_urls = ["https://raackdance.com/admin/login", "https://staging.raackdance.com/admin/login"]
+enable_signup = false          # staff accounts are invite-only (admin-users function)
+minimum_password_length = 10
+
+[auth.email]
+enable_confirmations = true
+
+[storage]
+file_size_limit = "100MiB"
+
+[functions.submit-enquiry]
+verify_jwt = false             # public form
+
+[functions.admin-users]
+verify_jwt = true

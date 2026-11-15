@@ -1,0 +1,16 @@
+# Nightly logical backup of the Supabase database (in addition to Supabase's own daily backups / PITR).
+name: Database backup
+on:
+  schedule: [{ cron: '30 20 * * *' }]   # 02:00 IST
+  workflow_dispatch:
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Postgres client
+        run: sudo apt-get update && sudo apt-get install -y postgresql-client
+      - name: Dump
+        env: { DATABASE_URL: '${{ secrets.SUPABASE_DB_URL }}' }
+        run: pg_dump "$DATABASE_URL" --no-owner --no-privileges --schema=public -Fc -f raack-$(date +%F).dump
+      - uses: actions/upload-artifact@v4
+        with: { name: raack-db-backup, path: '*.dump', retention-days: 30 }

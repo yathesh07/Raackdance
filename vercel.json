@@ -1,0 +1,445 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/header.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/footer.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/dance-studios-in-chennai.html",
+      "destination": "/studios",
+      "permanent": true
+    },
+    {
+      "source": "/store-locator.html",
+      "destination": "/studios",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-in-chennai.html",
+      "destination": "/programs",
+      "permanent": true
+    },
+    {
+      "source": "/dance-academy-chennai.html",
+      "destination": "/programs/little-legends",
+      "permanent": true
+    },
+    {
+      "source": "/dance-academy-classes.html",
+      "destination": "/programs/level-up",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-for-kids.html",
+      "destination": "/programs/rdep",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-for-adults.html",
+      "destination": "/programs/choreo-lab",
+      "permanent": true
+    },
+    {
+      "source": "/dance-schools.html",
+      "destination": "/programs/film-covers",
+      "permanent": true
+    },
+    {
+      "source": "/dance-academy.html",
+      "destination": "/programs/dance-fitness",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes.html",
+      "destination": "/programs/just-dance",
+      "permanent": true
+    },
+    {
+      "source": "/dance-schools-in-chennai.html",
+      "destination": "/events",
+      "permanent": true
+    },
+    {
+      "source": "/dance-studios-chennai.html",
+      "destination": "/events/heal-the-world",
+      "permanent": true
+    },
+    {
+      "source": "/dance-schools-chennai.html",
+      "destination": "/events/happy-feet",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-chennai.html",
+      "destination": "/events/first-step",
+      "permanent": true
+    },
+    {
+      "source": "/choreo-camp-chennai.html",
+      "destination": "/events/camp-raack",
+      "permanent": true
+    },
+    {
+      "source": "/faculties-training-academy.html",
+      "destination": "/faculty-academy",
+      "permanent": true
+    },
+    {
+      "source": "/dance-academy-in-chennai.html",
+      "destination": "/careers",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-for-kids-in-chennai.html",
+      "destination": "/franchise",
+      "permanent": true
+    },
+    {
+      "source": "/dance-classes-for-adults-in-chennai.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/online-dance-classes.html",
+      "destination": "/online-academy",
+      "permanent": true
+    },
+    {
+      "source": "/enquiry-form.html",
+      "destination": "/book-a-free-trial?type=online",
+      "permanent": true
+    },
+    {
+      "source": "/mail/conmail.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/mail/conmail-studio.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/mail/conmail-careers.php",
+      "destination": "/careers",
+      "permanent": true
+    },
+    {
+      "source": "/mail/conmail-event.php",
+      "destination": "/events",
+      "permanent": true
+    },
+    {
+      "source": "/mail/mail.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/studios-ambattur.html",
+      "destination": "/studios/ambattur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-arumbakkam.html",
+      "destination": "/studios/arumbakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-avadi.html",
+      "destination": "/studios/avadi",
+      "permanent": true
+    },
+    {
+      "source": "/studios-ayapakkam.html",
+      "destination": "/studios/ayapakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-basavanagudi.html",
+      "destination": "/studios/basavanagudi",
+      "permanent": true
+    },
+    {
+      "source": "/studios-chidambaram.html",
+      "destination": "/studios/chidambaram",
+      "permanent": true
+    },
+    {
+      "source": "/studios-cuddalore.html",
+      "destination": "/studios/cuddalore",
+      "permanent": true
+    },
+    {
+      "source": "/studios-guduvanchery.html",
+      "destination": "/studios/guduvanchery",
+      "permanent": true
+    },
+    {
+      "source": "/studios-hasthinapuram.html",
+      "destination": "/studios/hasthinapuram",
+      "permanent": true
+    },
+    {
+      "source": "/studios-iyyappanthangal.html",
+      "destination": "/studios/iyyappanthangal",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kandigai.html",
+      "destination": "/studios/kandigai",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kattur.html",
+      "destination": "/studios/kattur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-keelkattalai.html",
+      "destination": "/studios/keelkattalai",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kelambakkam.html",
+      "destination": "/studios/kelambakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kilpauk.html",
+      "destination": "/studios/kilpauk",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kolapakkam.html",
+      "destination": "/studios/kolapakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kolathur.html",
+      "destination": "/studios/kolathur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kumbakonam.html",
+      "destination": "/studios/kumbakonam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-kundrathur.html",
+      "destination": "/studios/kundrathur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-madambakkam.html",
+      "destination": "/studios/madambakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-maduravoyal.html",
+      "destination": "/studios/maduravoyal",
+      "permanent": true
+    },
+    {
+      "source": "/studios-mannivakkam.html",
+      "destination": "/studios/mannivakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-mappedu.html",
+      "destination": "/studios/mappedu",
+      "permanent": true
+    },
+    {
+      "source": "/studios-maraimalainagar.html",
+      "destination": "/studios/maraimalai-nagar",
+      "permanent": true
+    },
+    {
+      "source": "/studios-medavakkam.html",
+      "destination": "/studios/medavakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-mogappair.html",
+      "destination": "/studios/mogappair",
+      "permanent": true
+    },
+    {
+      "source": "/studios-mugalivakkam.html",
+      "destination": "/studios/mugalivakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-mylapore.html",
+      "destination": "/studios/mylapore",
+      "permanent": true
+    },
+    {
+      "source": "/studios-navalur.html",
+      "destination": "/studios/navalur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-neelankarai.html",
+      "destination": "/studios/neelankarai",
+      "permanent": true
+    },
+    {
+      "source": "/studios-old-perungalathur.html",
+      "destination": "/studios/old-perungalathur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-oldpallavaram.html",
+      "destination": "/studios/old-pallavaram",
+      "permanent": true
+    },
+    {
+      "source": "/studios-padappai.html",
+      "destination": "/studios/padappai",
+      "permanent": true
+    },
+    {
+      "source": "/studios-padur.html",
+      "destination": "/studios/padur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-pallikaranai.html",
+      "destination": "/studios/pallikaranai",
+      "permanent": true
+    },
+    {
+      "source": "/studios-pammal.html",
+      "destination": "/studios/pammal",
+      "permanent": true
+    },
+    {
+      "source": "/studios-perumbakkam.html",
+      "destination": "/studios/perumbakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-polachery.html",
+      "destination": "/studios/polachery",
+      "permanent": true
+    },
+    {
+      "source": "/studios-pondicherry.html",
+      "destination": "/studios/pondicherry",
+      "permanent": true
+    },
+    {
+      "source": "/studios-pudupakkam.html",
+      "destination": "/studios/pudupakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-ramapuram.html",
+      "destination": "/studios/ramapuram",
+      "permanent": true
+    },
+    {
+      "source": "/studios-saidapet.html",
+      "destination": "/studios/saidapet",
+      "permanent": true
+    },
+    {
+      "source": "/studios-sholinganallur.html",
+      "destination": "/studios/sholinganallur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-sithalapakkam.html",
+      "destination": "/studios/sithalapakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-surapet.html",
+      "destination": "/studios/surapet",
+      "permanent": true
+    },
+    {
+      "source": "/studios-tambaram.html",
+      "destination": "/studios/tambaram",
+      "permanent": true
+    },
+    {
+      "source": "/studios-thanjavur.html",
+      "destination": "/studios/thanjavur",
+      "permanent": true
+    },
+    {
+      "source": "/studios-thiruverkadu.html",
+      "destination": "/studios/thiruverkadu",
+      "permanent": true
+    },
+    {
+      "source": "/studios-thoraipakkam.html",
+      "destination": "/studios/thoraipakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-urapakkam.html",
+      "destination": "/studios/urapakkam",
+      "permanent": true
+    },
+    {
+      "source": "/studios-velachery.html",
+      "destination": "/studios/velachery",
+      "permanent": true
+    },
+    {
+      "source": "/studios-vyasarbadi.html",
+      "destination": "/studios/vyasarpadi",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/((?!api|assets|media|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(assets|media)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        }
+      ]
+    }
+  ]
+}

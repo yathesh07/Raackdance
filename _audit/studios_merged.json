@@ -1,0 +1,8308 @@
+{
+ "ambattur": {
+  "file": "studios-ambattur.html",
+  "phones": [
+   "+91 9940011227",
+   "+91 9841029322"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15542.057796033936!2d80.1571485!3d13.129917!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52630043b426d7%3A0x71d9a16501c03a4a!2sRaack%20Ambattur!5e0!3m2!1sen!2sin!4v1726222020411!5m2!1sen!2sin",
+  "label": "AMBATTUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "LITTLE LEGEND",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "LITTLE LEGEND",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FLOW",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Dance fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "LITTLE LEGEND",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "LITTLE LEGEND",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FLOW",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Dance fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "teens",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "Little legends",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Flow",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 7,
+   "name": "Ambathur",
+   "address": "First floor 125 Redhills Road Vijayalakshmipuram, Ambathur, near Pommys, Rajiv Gandhi Nagar, Vijayalakshmi Puram, Oragadam, Chennai, Tamil Nadu 600053",
+   "city": "Chennai",
+   "phone": "+91 9940011227 / 9841029322",
+   "lat": 13.1265896,
+   "lng": 80.1535929,
+   "storeUrl": "studios-ambattur.html",
+   "hours": "6:00 AM \u2013 9:30 PM",
+   "offer": "Military discount",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/ambattur.jpg"
+ },
+ "arumbakkam": {
+  "file": "studios-arumbakkam.html",
+  "phones": [
+   "+91 9500168676",
+   "+91 9884188848"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.6880926708845!2d80.20583707381208!3d13.072597812658467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526733ce7a61d3%3A0x2cd0d87702613981!2sRaack%20Academy%20of%20dance%20Arumbakkam!5e1!3m2!1sen!2sin!4v1730205146769!5m2!1sen!2sin",
+  "label": "ARUMBAKKAM",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [],
+   "Wednesday": [],
+   "Thursday": [],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo junior",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo senior & Teens",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little legends",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Flow",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "Choreo junior",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreo senior & Teens",
+     "time": "1.00PM - 2.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 30,
+   "name": "Arumbakkam",
+   "address": "No 2 , Vallalar street, 1st Main Rd, Jai Nagar, Arumbakkam, Chennai, Tamil Nadu 600106",
+   "city": "Chennai",
+   "phone": "+91 9500168676 / 9884188848",
+   "lat": 13.0726032,
+   "lng": 80.2083569,
+   "storeUrl": "studios-arumbakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Pradeep S",
+    "photo": "images-raack/franchise-head/Untitled-2.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/arumbakkam.jpg"
+ },
+ "avadi": {
+  "file": "studios-avadi.html",
+  "phones": [
+   "+91 9940698798",
+   "+91 9841029322"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d735971.8571191197!2d79.44629305400362!3d12.762000673544362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526279f495cf79%3A0xd778f18237d39591!2sRaack%20Academy%20of%20Dance%20%2CAvadi!5e0!3m2!1sen!2sin!4v1698989981570!5m2!1sen!2sin",
+  "label": "AVADI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.30PM - 8.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "10.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "4.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 8,
+   "name": "Avadi",
+   "address": "No-1116, Vivekananda Nagar, TNHB Mig V Block, Avadi, Tamil Nadu 600054",
+   "city": "Chennai",
+   "phone": "+91 9940698798 / 9841029322",
+   "lat": 13.1113519,
+   "lng": 80.1031989,
+   "storeUrl": "studios-avadi.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Early bird",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/Avadi.png"
+ },
+ "ayapakkam": {
+  "file": "studios-ayapakkam.html",
+  "phones": [
+   "+91 9600769789",
+   "+91 8925324525"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15543.750234933925!2d80.1337399!3d13.1031422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c6155c0d75686fd%3A0x4e95dcd27bf2fa33!2sRAACK%20AYAPAKKAM!5e0!3m2!1sen!2sin!4v1729750580867!5m2!1sen!2sin",
+  "label": "AYAPAKKAM",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [],
+   "Wednesday": [],
+   "Thursday": [],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow batch",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo junior",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo senior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Film cover adults",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little legends",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Flow batch",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Choreo junior",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "Choreo senior",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Film cover adults",
+     "time": "1.00PM - 2.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 23,
+   "name": "Ayappakkam",
+   "address": "R73/A, Ayapakkam Housing Board Rd, Rajammal nagar, TNHB Colony, Annanur, Ayappakkam, Chennai, Tamil Nadu 600077",
+   "city": "Chennai",
+   "phone": "+91 9600769789 / 8925324525",
+   "lat": 13.1032152,
+   "lng": 80.1338022,
+   "storeUrl": "studios-ayapakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Karthika",
+    "photo": "images-raack/franchise-head/Karthika.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/ayapakkam.jpg"
+ },
+ "basavanagudi": {
+  "file": "studios-basavanagudi.html",
+  "phones": [
+   "+91 7795945777"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.5231284121674!2d77.56836171015588!3d12.938342115554885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae150c45ac2a93%3A0xe2148fafe305e2de!2sRaack%20Basavanagudi!5e0!3m2!1sen!2sin!4v1746876477752!5m2!1sen!2sin",
+  "label": "BASAVANAGUDI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.30PM - 8.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "10.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "4.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 34,
+   "name": "Basavanagudi",
+   "address": "Ward No 154, Subbarama Chetty Rd, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004",
+   "city": "Bengaluru",
+   "phone": "+91 7795945777",
+   "lat": 12.9383369,
+   "lng": 77.570942,
+   "storeUrl": "studios-basavanagudi.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/bangalore.png"
+ },
+ "chidambaram": {
+  "file": "studios-chidambaram.html",
+  "phones": [
+   "+91 9600919177"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3911.125374125494!2d79.6944525!3d11.3984391!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54c300595f0f91%3A0x2d24957781167eb8!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1725023192466!5m2!1sen!2sin",
+  "label": "CHIDAMBARAM",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [],
+   "Wednesday": [],
+   "Thursday": [],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo Lab Junior",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab Senior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "2.30PM - 3.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Flow",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo Lab Junior",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreo Lab Senior",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30AM - 8.30AM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 24,
+   "name": "Chidambaram",
+   "address": "Raack Academy of Dance No:27, M, 1st Floor, J. Tower, Kamaleeshwaran Koil St, Chidambaram, Tamil Nadu 608001",
+   "city": "Chidambaram",
+   "phone": "+91 9600919177",
+   "lat": 11.3992556,
+   "lng": 79.6971672,
+   "storeUrl": "studios-chidambaram.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Meenambiga",
+    "photo": "images-raack/franchise-head/Meenambiga.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Chidambaram.jpg"
+ },
+ "cuddalore": {
+  "file": "studios-cuddalore.html",
+  "phones": [
+   "+91 9003302927",
+   "+91 9500921667"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1001546.3290718527!2d78.54841319620519!3d11.313475734540674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54989b25bef967%3A0xf4e8c8473714efeb!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698990615186!5m2!1sen!2sin",
+  "label": "CUDDALORE",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "ladies batch",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Doctors Batch",
+     "time": "4.30PM - 5.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "ladies batch",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Doctors Batch",
+     "time": "4.30PM - 5.30PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "ladies batch",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "Little legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "teens",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "ladies batch",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "Little legend",
+     "time": "9.30PM - 10.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "10.30PM - 11.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "11.30PM - 12.30PM"
+    },
+    {
+     "program": "teens",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 3,
+   "name": "Cuddalore",
+   "address": "No,7, Link Rd, Thirupapuliyur, Cuddalore, Tamil Nadu 600001",
+   "city": "Chennai",
+   "phone": "+91 9003302927 / 9500921667",
+   "lat": 11.7616458,
+   "lng": 79.7479487,
+   "storeUrl": "studios-cuddalore.html",
+   "hours": "5:30 AM \u2013 9:30 PM",
+   "offer": "Morning batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "PURNI MAGESH",
+    "photo": "images-raack/franchise-head/purni-magesh.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/CUDDALORE.png"
+ },
+ "guduvanchery": {
+  "file": "studios-guduvanchery.html",
+  "phones": [
+   "+91 9500919990",
+   "+91 8754537733"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999333.6415081453!2d78.04155771576828!3d11.838877551989997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f78578a66dc7%3A0x78bdb9dd8e3f1344!2sRaack%20Academy%20of%20Dance%20%E2%80%93%20BEST%20DANCE%20CLASS%20%7C%20KIDS%20DANCE%20CLASS%20%7C%20ZUMBA%20CLASS%20%2F%20WESTERN%20DANCE%20CLASS%20IN%20GUDUVANCHERRY!5e0!3m2!1sen!2sin!4v1698990907802!5m2!1sen!2sin",
+  "label": "GUDUVANCHERY",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "FLOW",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LVL-1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "JR. CHOREO (7to12)",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILMCOVER (ADULTS)",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legends (New)",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 INTERME",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "FLOW",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "JR. CHOREO (7to12)",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILMCOVER (ADULTS)",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legends (BATCH-1)",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "JR. CHOREOLAB",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "FILMCOVER ( ADULTS)",
+     "time": "8.00AM - 9.00AM"
+    },
+    {
+     "program": "Little LEGENDS (BATCH-1)",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "FLOW BATCH",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "Little Legends (BATCH-2)",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 (BATCH-1)",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 (BATCH-2)",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2 INTERME",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "TEENS CHOREOLAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILMCOVER (Adults)",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "FILMCOVER ( ADULTS)",
+     "time": "8.00AM - 9.00AM"
+    },
+    {
+     "program": "Little LEGENDS (BATCH-2)",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "FLOW BATCH",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1 (BATCH-1)",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2 INTERME",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "TEENS CHOREOLAB",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "JR. CHOREOLAB",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 (BATCH-2)",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FILMCOVER (Adults)",
+     "time": "6.00PM - 7.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 17,
+   "name": "Guduvancheri",
+   "address": "No. 1 Vishnu Priya Nagar, Nellikuppam Road Kayarembedu Village, near Velammal School, Guduvancheri, Moolakazhani, Tamil Nadu 603202",
+   "city": "Chennai",
+   "phone": "+91 9500919990 / 8754537733",
+   "lat": 12.8252369,
+   "lng": 80.0754129,
+   "storeUrl": "studios-guduvanchery.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "M. ARUN RATHINAVEL",
+    "photo": "images-raack/franchise-head/arun-kumar.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Guduvanchery.png"
+ },
+ "hasthinapuram": {
+  "file": "studios-hasthinapuram.html",
+  "phones": [
+   "+91 7695890080",
+   "+91 8925253052"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.4892220372994!2d80.1484205!3d12.940516599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f9525f29993%3A0xb7454eb5c14811b7!2sRaack%20Academy%20of%20Dance%20-%20Hasthinapuram!5e0!3m2!1sen!2sin!4v1725023905585!5m2!1sen!2sin",
+  "label": "HASTHINAPURAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Choreolab Jr",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Choreolab Jr",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab Jr",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "3.30PM - 4.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Flow",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Choreopab Sr",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Choreolab Jr",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Flow",
+     "time": "10.30AM - 11.30AM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 25,
+   "name": "Hasthinapuram",
+   "address": "15 Gayathri Nagar, Water Tank, Opp Street to SBI bank, Dr Rajendra Prasad Rd, opp. to Gayathri Nagar, Velmurugan Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu 600064",
+   "city": "Chennai",
+   "phone": "+91 7695890080 / 8925253052",
+   "lat": 12.9405166,
+   "lng": 80.1484205,
+   "storeUrl": "studios-hasthinapuram.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Kalaivani K",
+    "photo": "images-raack/franchise-head/Kalaivani.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/hasthinapuram.jpg"
+ },
+ "iyyappanthangal": {
+  "file": "studios-iyyappanthangal.html",
+  "phones": [
+   "+91 9790974123"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31095.20324791882!2d80.09891107431639!3d13.042011000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261c45a30373f%3A0xf6b418564879a086!2sRAACK%20Academy%20of%20Dance%20%E2%80%93%20Iyyappanthangal!5e0!3m2!1sen!2sin!4v1781859358764!5m2!1sen!2sin",
+  "label": "Iyyappanthangal",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 46,
+   "name": "Iyyappanthangal",
+   "address": "9, First main road, Krishnaveni ammal nagar, Opp Grace Supermarket, Oil Mill Road, Iyyappanthangal, Chennai - 600056",
+   "city": "Chennai",
+   "phone": "+91 9790974123",
+   "lat": 13.042011,
+   "lng": 80.1370199,
+   "storeUrl": "studios-iyyappanthangal.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Nithya Sathish",
+    "photo": "images-raack/franchise-head/Nithya_sathish.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-iyyappanthangal.png"
+ },
+ "kandigai": {
+  "file": "studios-kandigai.html",
+  "phones": [
+   "+91 9500097045"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9015980647387!2d80.1414945!3d12.849631800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52596005308549%3A0x71374ec27cc5231d!2sRaack%20Academy%20of%20dance%20-%20Kandigai!5e0!3m2!1sen!2sin!4v1769493074344!5m2!1sen!2sin",
+  "label": "KANDIGAI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 41,
+   "name": "Kandigai",
+   "address": "3rd Floor, Thiru Thamizh Tower Melakottaiyur, Kelambakkam - Vandalur Rd, Kandigai, Chennai, Tamil Nadu 600127.",
+   "city": "Chennai",
+   "phone": "+91 9500097045",
+   "lat": 12.8496318,
+   "lng": 80.1414945,
+   "storeUrl": "studios-kandigai.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Vidya Sureshkumar",
+    "photo": "images-raack/franchise-head/Vidya-Sureshkumar.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-kandigai.jpg"
+ },
+ "kattur": {
+  "file": "studios-kattur.html",
+  "phones": [
+   "+91 7550046563"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1828617052483!2d78.75124107502636!3d10.797302558808495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baaf3e7e3a8515d%3A0xc1f3217e137a6ac!2sRaack%20Academy%20of%20Dance%20Trichy!5e0!3m2!1sen!2sin!4v1794565373863!5m2!1sen!2sin",
+  "label": "Kattur",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 51,
+   "name": "Kattur",
+   "address": "3rd Floor, Ideal Towers, Thanjai Main Road, Kattur, Trichy - 620019",
+   "city": "Chennai",
+   "phone": "+91 7550046563",
+   "lat": 10.797293,
+   "lng": 78.7533856,
+   "storeUrl": "studios-kattur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-polachery1.jpg"
+ },
+ "keelkattalai": {
+  "file": "studios-keelkattalai.html",
+  "phones": [
+   "+91 7550283439",
+   "+91 994516090"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1677470.1538642936!2d78.43768868053576!3d12.435734385246597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525e7624e90d9b%3A0xe6e79b7d2fb1b2ba!2sRaack%20Academy%20Of%20Dance%20Keelkattalai!5e0!3m2!1sen!2sin!4v1698991122230!5m2!1sen!2sin",
+  "label": "KEELKATTALAI",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab SR",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab SR",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 1",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 BATCH 2",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 9,
+   "name": "Keelkattalai",
+   "address": "First floor, 78, Medavakkam Main Rd, opp. Andhra Bank, Rajamanickam Nagar, Keelkattalai, Chennai, Tamil Nadu 600117",
+   "city": "Chennai",
+   "phone": "+91 7550283439 / 994516090",
+   "lat": 12.9576132,
+   "lng": 80.1862649,
+   "storeUrl": "studios-keelkattalai.html",
+   "hours": "5:30 AM \u2013 10:00 PM",
+   "offer": "Premium pass",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Saravan santhanakrishnan",
+    "photo": "images-raack/franchise-head/Saravanan.png"
+   },
+   {
+    "name": "Gugan Gurubaran",
+    "photo": "images-raack/franchise-head/Gugan.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Keelkattalai.png"
+ },
+ "kelambakkam": {
+  "file": "studios-kelambakkam.html",
+  "phones": [
+   "+91 9363739997"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.937451673424!2d80.21819599999999!3d12.782571999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5251ec75601353%3A0x478a51cd3c2bf631!2sRaack%20Academy%20of%20Dance%20-%20Kelambakkam!5e0!3m2!1sen!2sin!4v1779194505660!5m2!1sen!2sin",
+  "label": "Kelambakkam",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 43,
+   "name": "Kelambakkam",
+   "address": "22/1C1A & 22/1C1B Third Floor, Rajiv Gandhi Salai (OMR), Kelambakkam, Chennai - 603 103 (above TVS Showroom)",
+   "city": "Chennai",
+   "phone": "+91 9363739997",
+   "lat": 12.782572,
+   "lng": 80.218196,
+   "storeUrl": "studios-kelambakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Thileepa TL",
+    "photo": "images-raack/franchise-head/Thileepa-TL-1.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Kelambakkam.png"
+ },
+ "kilpauk": {
+  "file": "studios-kilpauk.html",
+  "phones": [
+   "+91 9543345345",
+   "+91 9841429355"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2826239.061461487!2d77.29709903625047!3d11.95870069707986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52642ef9b85445%3A0x9c32f806db88ed0!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698912838466!5m2!1sen!2sin",
+  "label": "HEAD OFFICE STUDIO",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 0,
+   "name": "Kilpauk",
+   "address": "28/1, Rajaratnam St, Kilpauk, Chennai, Tamil Nadu 600010",
+   "city": "Chennai",
+   "phone": "+91 9543345345 / 9841429355",
+   "lat": 13.0791555,
+   "lng": 80.2412978,
+   "storeUrl": "studios-kilpauk.html",
+   "hours": "6:00 AM \u2013 10:00 PM",
+   "offer": "Free trial class",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/Kilpauk.png"
+ },
+ "kolapakkam": {
+  "file": "studios-kolapakkam.html",
+  "phones": [
+   "+91 8925928565"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3823104764356!2d80.153002!3d13.0113089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52612ab1051c0b%3A0xd25ec9bdacd27a66!2sRaack%20Academy%20of%20Dance%20%E2%80%93%20Kolapakkam!5e0!3m2!1sen!2sin!4v1790850461751!5m2!1sen!2sin",
+  "label": "Kolapakkam",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 49,
+   "name": "Kolapakkam",
+   "address": "2, Anna Main Road, Mahalakshmi Nagar, Kolapakkam, Chennai, Tamil Nadu - 600128",
+   "city": "Chennai",
+   "phone": "+91 8925928565",
+   "lat": 13.0113089,
+   "lng": 80.153002,
+   "storeUrl": "studios-kolapakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-kolapakkam.jpg"
+ },
+ "kolathur": {
+  "file": "studios-kolathur.html",
+  "phones": [
+   "+91 9841522220"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1673246.4563632305!2d78.38425847558605!3d13.073842750945795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ad1b7a87ab%3A0x6e14d7a0b9d2c60f!2sRaack%20Academy%20of%20Dance%20kolathur!5e0!3m2!1sen!2sin!4v1698992145025!5m2!1sen!2sin",
+  "label": "KOLATHUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.30AM - 7.30AM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB 2",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "CHOREO LAB 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.30AM - 7.30AM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB 2",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "CHOREO LAB 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00AM - 8.00AM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00AM - 8.00AM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 12,
+   "name": "Kolathur",
+   "address": "No,13/14, 200, ft road, Ambethkar Nagar, Ambedkar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+   "city": "Chennai",
+   "phone": "+91 9841522220",
+   "lat": 13.1263972,
+   "lng": 80.207454,
+   "storeUrl": "studios-kolathur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Smitha Arun",
+    "photo": "images-raack/franchise-head/smitha.png"
+   },
+   {
+    "name": "Supra Karthikeyan",
+    "photo": "images-raack/franchise-head/supra.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Kolathur.png"
+ },
+ "kumbakonam": {
+  "file": "studios-kumbakonam.html",
+  "phones": [
+   "+91 8220040048"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.0580866360506!2d79.38760077502799!3d10.958984955799872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5533cfbf87a6bb%3A0xd53bb4210a1efe90!2sRaack%20Academy%20of%20Dance%20Kumbakonam!5e0!3m2!1sen!2sin!4v1767184315810!5m2!1sen!2sin",
+  "label": "kUMBAKONAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 39,
+   "name": "Kumbakonam",
+   "address": "97, John Selvaraj Nagar Rd, John Selvaraj Nagar, Kumbakonam, Tamil Nadu - 612001",
+   "city": "Kumbakonam",
+   "phone": "+91 8220040048",
+   "lat": 10.9589797,
+   "lng": 79.3901757,
+   "storeUrl": "studios-kumbakonam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Mahalakshmi D",
+    "photo": "images-raack/franchise-head/Mahalakshmi-D.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-kumbakonam.jpg"
+ },
+ "kundrathur": {
+  "file": "studios-kundrathur.html",
+  "phones": [
+   "+91 7550214655"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.611856168001!2d80.1075342!3d12.9966595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261a383e8a5d1%3A0xb601117b1ac3bbf5!2sRaack%20Academy%20of%20Dance%20-%20Kundrathur!5e0!3m2!1sen!2sin!4v1769495239964!5m2!1sen!2sin",
+  "label": "KUNDRATHUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 42,
+   "name": "Kundrathur",
+   "address": "Pallavaram - Kundrathur Rd, 70/3, Main Rd, Aandankuppam, Kundrathur, Chennai, Tamil Nadu 600069",
+   "city": "Chennai",
+   "phone": "+91 7550214655",
+   "lat": 12.9966561,
+   "lng": 80.1075614,
+   "storeUrl": "studios-kundrathur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Ajith Kumar",
+    "photo": "images-raack/franchise-head/Ajith-Kumar.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-kundrathur.jpg"
+ },
+ "madambakkam": {
+  "file": "studios-madambakkam.html",
+  "phones": [
+   "+91 8438962316"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.4973456995215!2d80.15577264075013!3d12.908062499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa58edc7f2b04ee65%3A0xd41151a927800cbc!2sRaack%20Academy%20Of%20Dance%20Madambakkam!5e0!3m2!1sen!2sin!4v1779277328759!5m2!1sen!2sin",
+  "label": "Madambakkam",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 44,
+   "name": "Madambakkam",
+   "address": "638, 3rd St, Shanthi Nikethan Colony, Sudharsan Nagar, Madambakkam, Chennai, Tamil Nadu 600073",
+   "city": "Chennai",
+   "phone": "+91 8438962316",
+   "lat": 12.9080625,
+   "lng": 80.1576875,
+   "storeUrl": "studios-madambakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Dilip Joshi",
+    "photo": "images-raack/franchise-head/dilip-joshi.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Madambakkam.png"
+ },
+ "maduravoyal": {
+  "file": "studios-maduravoyal.html",
+  "phones": [
+   "+91 8122868091"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.576283814868!2d80.1661952750526!3d13.062620912876204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261ea3ca98019%3A0x181a51cf2390d1b0!2sRaack%20Academy%20of%20Dance%20Maduravoyal!5e0!3m2!1sen!2sin!4v1767184608962!5m2!1sen!2sin",
+  "label": "MADURAVOYAL",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 40,
+   "name": "Maduravoyal",
+   "address": "No.3, Singaravel nagar 2nd street, pallavan nagar main road, Maduravoyal, 600095",
+   "city": "Chennai",
+   "phone": "+91 8122868091",
+   "lat": 13.0626157,
+   "lng": 80.1687702,
+   "storeUrl": "studios-maduravoyal.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "V. A. Niraimathee",
+    "photo": "images-raack/franchise-head/V-A-Niraimathee.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-maduravoyal.png"
+ },
+ "mannivakkam": {
+  "file": "studios-mannivakkam.html",
+  "phones": [
+   "+91 9500001292"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.0932610427976!2d80.0652806!3d12.901724399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f5e6bcfb5839%3A0x70724f34b8492bfe!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1725021790229!5m2!1sen!2sin",
+  "label": "MANNIVAKKAM",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "Little Legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [],
+   "Thursday": [
+    {
+     "program": "Little Legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Little Legends",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little Legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab Adult",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "3.00PM - 4.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legends",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo Lab",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreo Lab Adult",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "2.30PM - 3.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 22,
+   "name": "Mannivakkam",
+   "address": "15, Mudichur Rd, Nehru Colony, Mannivakkam, Chennai, Tamil Nadu 600048",
+   "city": "Chennai",
+   "phone": "+91 9500001292",
+   "lat": 12.9017244,
+   "lng": 80.0652806,
+   "storeUrl": "studios-mannivakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Aiswarya Jagatheesan",
+    "photo": "images-raack/franchise-head/AiswaryaJagatheesan.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/mannivakkam.jpg"
+ },
+ "mappedu": {
+  "file": "studios-mappedu.html",
+  "phones": [
+   "+91 9790500510"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.4190161635247!2d80.1362973!3d12.880756300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5259c9aebdb165%3A0xfd7ef7429ea80153!2sRaack%20Academy%20Of%20Dance%20Mappedu!5e0!3m2!1sen!2sin!4v1784907470825!5m2!1sen!2sin",
+  "label": "Mappedu",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 47,
+   "name": "Mappedu",
+   "address": "plot no. 37, AKB Solitire, anna main road, Mappedu - Vengambakkam Rd, Kaspapuram, Chennai, Tamil Nadu 600126",
+   "city": "Chennai",
+   "phone": "+91 97905 00510",
+   "lat": 12.8795023,
+   "lng": 80.1352585,
+   "storeUrl": "studios-mappedu.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Joel Victor Ezhilarasan",
+    "photo": "images-raack/franchise-head/Joel-Victor-Ezhilarasan.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-mappedu.jpg"
+ },
+ "maraimalainagar": {
+  "file": "studios-maraimalainagar.html",
+  "phones": [
+   "+91 9884726634",
+   "+91 8925531580"
+  ],
+  "maps_embed": null,
+  "label": "MARAIMALAI NAGAR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab Junior(7 to 12 years)",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Flim covers Seniors(13 &Above)",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Tuesday": [],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab Junior(7 to 12 years)",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Flim covers Seniors(13 &Above)",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Thursday": [],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreo lab Junior(7 to 12 years)",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo lab Senior(13 & Above)",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Flim covers Seniors(13 & Above)",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Flow",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo lab Junior (7 to 12 years)",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreo lab Senior(13 & Above)",
+     "time": "1.30PM - 2.30PM"
+    },
+    {
+     "program": "Flim covers Seniors(13 & Above)",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 28,
+   "name": "Maraimalai Nagar",
+   "address": "No. 1/73, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+   "city": "Chennai",
+   "phone": "+91 9884726634 / 8925531580",
+   "lat": 12.7933033,
+   "lng": 80.0256329,
+   "storeUrl": "studios-maraimalainagar.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Anitha",
+    "photo": "images-raack/franchise-head/Anitha-CV.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Maraimalai-Nagar.png"
+ },
+ "medavakkam": {
+  "file": "studios-medavakkam.html",
+  "phones": [
+   "+91 95000 78970"
+  ],
+  "maps_embed": null,
+  "label": "MEDAVAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little legends",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little legends",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00AM - 8.00AM"
+    },
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00AM - 8.00AM"
+    },
+    {
+     "program": "Little legends",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "Little legends",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Flow",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreolab jr",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Choreolab Sr",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Film cover",
+     "time": "1.30PM - 2.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 31,
+   "name": "Medavakkam",
+   "address": "7/492C, Third Floor, Velachery Main Rd, Ranganathapuram, Medavakkam, Chennai, Medavakkam, Tamil Nadu 600100",
+   "city": "Chennai",
+   "phone": "+91 95000 78970 ",
+   "lat": 12.9197255,
+   "lng": 80.1799319,
+   "storeUrl": "studios-medavakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Muthukumar Narayanan",
+    "photo": "images-raack/franchise-head/Muthukumar-Narayanan.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Medavakkam.png"
+ },
+ "mogappair": {
+  "file": "studios-mogappair.html",
+  "phones": [
+   "+91 9840339994"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1673867.4746147045!2d78.81021522564436!3d12.981954820471659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263136a94152b%3A0x9b5fcc2d8f7d12e!2sRAACK%20ACADEMY%20OF%20DANCE%20MOGAPPAIR!5e0!3m2!1sen!2sin!4v1698992468865!5m2!1sen!2sin",
+  "label": "MOGAPPAIR",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "7.30AM - 9.30AM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 5,
+   "name": "Mogappair",
+   "address": "No. 36, D N Plaza, Thiruvalluvar Salai, Thiruvalluvar Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600037",
+   "city": "Chennai",
+   "phone": "+91 9840339994",
+   "lat": 13.0858389,
+   "lng": 80.1796866,
+   "storeUrl": "studios-mogappair.html",
+   "hours": "6:00 AM \u2013 9:00 PM",
+   "offer": "Referral bonus",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "KRISHNA",
+    "photo": "images-raack/franchise-head/krishna.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/mogappair.jpg"
+ },
+ "mugalivakkam": {
+  "file": "studios-mugalivakkam.html",
+  "phones": [
+   "+91 9940329429",
+   "+91 9710939240"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1674900.9905180098!2d78.3842342436783!3d12.82759843591901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261eb909585b1%3A0xbc52678a317d3673!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698992702188!5m2!1sen!2sin",
+  "label": "MUGALIVAKKAM",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Wednesday": [],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 10,
+   "name": "Mugalivakkam",
+   "address": "2, Vembadi Vinayakar Koil Rd, AGS Colony, Mugalivakkam, Chennai, Tamil Nadu 600125",
+   "city": "Chennai",
+   "phone": "+91 9940329429 / 9710939240",
+   "lat": 13.0207029,
+   "lng": 80.1636982,
+   "storeUrl": "studios-mugalivakkam.html",
+   "hours": "6:00 AM \u2013 10:00 PM",
+   "offer": "Shopping voucher",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "VIBINESH",
+    "photo": "images-raack/franchise-head/vibinesh.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Mugalivakkam.png"
+ },
+ "mylapore": {
+  "file": "studios-mylapore.html",
+  "phones": [
+   "+91 95433 45345",
+   "+91 9841429355"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418691.41486325354!2d79.83710953699435!3d12.847913958730533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267d247a51bad%3A0x95d966da5409dcae!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698922543186!5m2!1sen!2sin",
+  "label": "HEAD OFFICE STUDIO",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30PM - 12.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30PM - 12.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30PM - 12.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "1.00PM - 2.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 1,
+   "name": "Mylapore",
+   "address": "51, Ramakrishna Mutt Rd, opp. P.S Matriculation School, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+   "city": "Chennai",
+   "phone": "+91 9543345345 / 9841429355",
+   "lat": 13.0305906,
+   "lng": 80.2669684,
+   "storeUrl": "studios-mylapore.html",
+   "hours": "6:00 AM \u2013 9:00 PM",
+   "offer": "Weekend discount",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/Mylapore.png"
+ },
+ "navalur": {
+  "file": "studios-navalur.html",
+  "phones": [],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9276802100867!2d80.2268036!3d12.847947500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bfa11f80207%3A0x4326bc430eb98545!2sRaack%20Academy%20of%20Dance%20Navalur!5e0!3m2!1sen!2sin!4v1779694260161!5m2!1sen!2sin",
+  "label": "Navalur",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 45,
+   "name": "Navalur",
+   "address": "S2, Second floor, 3/46, Rajiv Gandhi Salai, OMR, Navalur, Chennai, Tamil Nadu 600130",
+   "city": "Chennai",
+   "phone": "+91 9677899303 / 8754622303",
+   "lat": 12.8479475,
+   "lng": 80.2268036,
+   "storeUrl": "studios-navalur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Mahjabeen Reyaz",
+    "photo": "images-raack/franchise-head/Mahjabeen_Reyaz.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-navalur.png"
+ },
+ "neelankarai": {
+  "file": "studios-neelankarai.html",
+  "phones": [
+   "+91 9841429355"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1993708.890940628!2d78.10935641139866!3d12.584711482184018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d49460d699b%3A0xe0b237f0ae2732a!2sRAACK%20ACADEMY%20OF%20DANCE%2FWestern%20Dance%20Class%2FDance%20Class%2FNeelankarai%2Fecr%2FPalavakkam%2Finjambakkam%2Fkottivakkam%2Fvettuvankeni!5e0!3m2!1sen!2sin!4v1698993023615!5m2!1sen!2sin",
+  "label": "NEELANKARAI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.00AM - 12.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab - above 13",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.00AM - 12.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab - above 13",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo Lab - above 13",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreo Lab - above 13",
+     "time": "1.00PM - 2.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 11,
+   "name": "Neelankarai",
+   "address": " no - 2/796 sakshi towers, kazura garden 1st, East Coast Rd, opp. hot chips, Kazura Garden, Neelankarai, Chennai, Tamil Nadu 600115 ",
+   "city": "Chennai",
+   "phone": "+91 9841429355",
+   "lat": 12.9565843,
+   "lng": 80.2540512,
+   "storeUrl": "studios-neelankarai.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "RAJANGAM",
+    "photo": "images-raack/franchise-head/Rajangam-Neelankarai.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Neelankarai.png"
+ },
+ "old-perungalathur": {
+  "file": "studios-old-perungalathur.html",
+  "phones": [
+   "+91 9500001292"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1991060.8797659124!2d80.09161105765934!3d12.921164399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f5516dc14cdf%3A0x254e9af4d917a63e!2sRAACK%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1699000987310!5m2!1sen!2sin",
+  "label": "Old Perungalathur",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.40PM - 8.40PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.40PM - 8.40PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "6.00AM - 7.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.40PM - 8.40PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/Teens",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/Teens",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 SENIOR",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "CHOREO LAB SR/Teens",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/Teens",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "RDEP LEVEL 1 SENIOR",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 16,
+   "name": "Old Perungalathur",
+   "address": "Bus stop, No: 3, Mudichur Rd, near Bharathi Nagar, Gandhi Nagar, Old Perungalathur, Chennai, Tamil Nadu 600063",
+   "city": "Chennai",
+   "phone": "+91 9500001292",
+   "lat": 12.9210742,
+   "lng": 80.0910335,
+   "storeUrl": "studios-old-perungalathur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "AISWARYA JAGATHEESAN",
+    "photo": "images-raack/franchise-head/aiswarya.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Perungalathur.png"
+ },
+ "oldpallavaram": {
+  "file": "studios-oldpallavaram.html",
+  "phones": [
+   "+91 9150188688",
+   "+91 9962374879"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.159377291242!2d80.1593791!3d12.961651499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f005784f3a5%3A0xb5032ece4da7e423!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1725020655547!5m2!1sen!2sin",
+  "label": "OLD PALLAVARAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreo lab JR 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab JR 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Film cover SR",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreo lab JR 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab JR 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Film cover SR",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreo lab JR 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab JR 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Film cover SR",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo lab JR 1",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreo lab JR 2",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "1.30PM - 2.30PM"
+    },
+    {
+     "program": "Film cover SR",
+     "time": "2.30PM - 3.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 21,
+   "name": "Old Pallavaram",
+   "address": " No:95, 1st Floor, Gokulam Complex, PV Vaithiyalingam Rd, above City Union Bank, Zamin Pallavaram, Raja Joseph Colony, Old Pallavaram, Chennai, Tamil Nadu 600043",
+   "city": "Chennai",
+   "phone": "+91 9150188688 / 9962374879",
+   "lat": 12.9616515,
+   "lng": 80.1593791,
+   "storeUrl": "studios-oldpallavaram.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Saravan santhanakrishnan",
+    "photo": "images-raack/franchise-head/Saravanan.png"
+   },
+   {
+    "name": "Gugan Gurubaran",
+    "photo": "images-raack/franchise-head/Gugan.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/oldpallavaram.jpg"
+ },
+ "padappai": {
+  "file": "studios-padappai.html",
+  "phones": [
+   "+91 9840642837"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124457.99985099719!2d79.87127065658566!3d12.887616487884012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f7c2f378b343%3A0x66b5ed1a32d8760c!2sRAACK%20Academy%20of%20Dance%2C%20Padappai!5e0!3m2!1sen!2sin!4v1789802464742!5m2!1sen!2sin",
+  "label": "PADAPPAI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Film cover",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.30PM - 8.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "10.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1 Batch 1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1 Batch 2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "4.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB -9 to 12 years",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "CHOREO LAB TEEN",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 15,
+   "name": "Padappai",
+   "address": "Old no 539/2, Plot no. 15, Ground floor, Hajiyar Nagar, NGO Colony Main Road Padappai, Chennai, Kancheepuraam, Tamil Nadu 601301",
+   "city": "Chennai",
+   "phone": "+91 9840642837",
+   "lat": 12.887616487884012,
+   "lng": 79.87127065658566,
+   "storeUrl": "studios-padappai.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Rajalakshmi S",
+    "photo": "images-raack/franchise-head/11.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-padappai.png"
+ },
+ "padur": {
+  "file": "studios-padur.html",
+  "phones": [
+   "+91 9363739997",
+   "+91 9363719997"
+  ],
+  "maps_embed": null,
+  "label": "PADUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo lab Junior",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Flim covers",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Tuesday": [],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Flow",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreo lab Junior",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Flim covers",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Thursday": [],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Dance Fitness",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "Flow",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreo lab Junior",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Choreo lab Senior",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Flim covers",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Dance Fitness",
+     "time": "8.30AM - 9.30AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "Flow",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo lab Junior",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Choreo lab Senior",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "Flim covers",
+     "time": "1.30PM - 2.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 29,
+   "name": "Padur",
+   "address": "First floor, 1/200, OMR Rd, above Federal Bank, Padur, Chennai, Tamil Nadu 603103",
+   "city": "Chennai",
+   "phone": "+91 9363739997 / 9363719997",
+   "lat": 12.8047283,
+   "lng": 80.223826,
+   "storeUrl": "studios-padur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Thileepa TL",
+    "photo": "images-raack/franchise-head/Thileepa-TL.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Padur.png"
+ },
+ "pallikaranai": {
+  "file": "studios-pallikaranai.html",
+  "phones": [
+   "+91 9500078970"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998994.054272862!2d78.1073969714467!3d11.885213800678114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d6211bee343%3A0x4a5e64ee9e778d9!2sRaack%20Academy%20of%20dance%20Pallikaranai!5e0!3m2!1sen!2sin!4v1698993246275!5m2!1sen!2sin",
+  "label": "PALLIKARANAI",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "9.30AM - 10.30AM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 2",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 1",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 2",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "FILM COVER",
+     "time": "1.30PM - 2.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 13,
+   "name": "Pallikaranai",
+   "address": " Bus Stop, 5, Sengalani Amman Koil Street, near Domino's Pizza, opposite to Narayanapuram, IIT Colony, Narayanapuram, Pallikaranai, Chennai, Tamil Nadu 600100",
+   "city": "Chennai",
+   "phone": "+91 9500078970",
+   "lat": 12.9400168,
+   "lng": 80.205873,
+   "storeUrl": "studios-pallikaranai.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "MUTHU",
+    "photo": "images-raack/franchise-head/muthu.png"
+   },
+   {
+    "name": "MADHU",
+    "photo": "images-raack/franchise-head/madhu.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Pallikaranai.png"
+ },
+ "pammal": {
+  "file": "studios-pammal.html",
+  "phones": [
+   "+91 7200117109"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.0569676027264!2d80.12439007770423!3d12.964560560963193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2209ad1b486b58eb%3A0x5c51b16a7cf90c22!2sRaack%20Academy%20of%20Dance%20Pammal!5e0!3m2!1sen!2sin!4v1761116578854!5m2!1sen!2si",
+  "label": "PAMMAL",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 36,
+   "name": "Pammal",
+   "address": "219, 39th St, Easwari Nagar, Shankar Nagar, Pammal, Chennai, Tamil Nadu 600075, India",
+   "city": "Chennai",
+   "phone": "+91 9790938508 / 7200117109",
+   "lat": 12.96449,
+   "lng": 80.125699,
+   "storeUrl": "studios-pammal.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Aparna R",
+    "photo": "images-raack/franchise-head/aparna.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/pammal.png"
+ },
+ "perumbakkam": {
+  "file": "studios-perumbakkam.html",
+  "phones": [
+   "+91 9003024113",
+   "+919543345345"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17646.515335459506!2d80.17759219788773!3d12.891432085816723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525ba86bece20b%3A0xbdfa41b806015f93!2sRaack%20academy%20of%20dance%20Perumbakkam!5e0!3m2!1sen!2sin!4v1746876286437!5m2!1sen!2sin",
+  "label": "PERUMBAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 33,
+   "name": "Perumbakkam",
+   "address": "Block 1st Floor, Sekaran's The ARC B, 225/1, Rose Garden St, Nesamani Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",
+   "city": "Chennai",
+   "phone": "+91 9003024113 / 9543345345",
+   "lat": 12.8959297,
+   "lng": 80.1972856,
+   "storeUrl": "studios-perumbakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Venkat",
+    "photo": "images-raack/franchise-head/Venkat.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-perumbakkam.jpg"
+ },
+ "polachery": {
+  "file": "studios-polachery.html",
+  "phones": [
+   "+91 9962996468"
+  ],
+  "maps_embed": "//www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243.12300778810607!2d80.17562381128634!3d12.845335302994654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52599d3527661b%3A0xcb2ca52e8421ffde!2sRaack%20Acadmey%20of%20Dance%20-%20Polachery!5e0!3m2!1sen!2sin!4v1794566964614!5m2!1sen!2sin",
+  "label": "Polachery",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 50,
+   "name": "Polachery",
+   "address": "Flat.no 6, DABC main road, Bliss in the town, phase-3, polachery, chennai-600127",
+   "city": "Chennai",
+   "phone": "+91 9962996468",
+   "lat": 12.8453353,
+   "lng": 80.1756238,
+   "storeUrl": "studios-polachery.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Kalpana M",
+    "photo": "images-raack/franchise-head/kalpana-m.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-polachery.jpg"
+ },
+ "pondicherry": {
+  "file": "studios-pondicherry.html",
+  "phones": [],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1001228.1568623981!2d78.5782912124921!3d11.404097197469202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53613d724b6793%3A0x21586a1534d8381d!2sRAACK%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698994323462!5m2!1sen!2sin",
+  "label": "PONDICHERRY",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "dance fitness",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "dance fitness",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "RDEP Level 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "Film Cover",
+     "time": "8.00PM - 9.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 19,
+   "name": "Puducherry",
+   "address": " 2nd floor, 349, Mahatma Gandhi Rd, above Nike Showroom, next to Petit Seminaire Higher Secondary School, MG Road Area, Puducherry, 605001",
+   "city": "Puducherry",
+   "phone": "+91 9841712232",
+   "lat": 11.93365,
+   "lng": 79.8289206,
+   "storeUrl": "studios-pondicherry.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Murali Krishna",
+    "photo": "images-raack/franchise-head/murali.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Pondicherry.png"
+ },
+ "pudupakkam": {
+  "file": "studios-pudupakkam.html",
+  "phones": [
+   "+91 9003024113",
+   "+919543345345"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d295858.60132218956!2d80.06105741068215!3d13.017317760505847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d90d4674d77%3A0xb3fda63ee24a2fab!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698926927117!5m2!1sen!2sin",
+  "label": "PUDUPAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 35,
+   "name": "Pudupakkam",
+   "address": "2nd floor, GK Towers, No 4/16, MR Radha Rd, Pudupakkam, Chennai, Tamil Nadu 603103",
+   "city": "Chennai",
+   "phone": "+91 9003024113 / 9543345345",
+   "lat": 12.8213225,
+   "lng": 80.2036161,
+   "storeUrl": "studios-pudupakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Pavithra Aravind",
+    "photo": "images-raack/franchise-head/Pavithra_Aravind.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-pudupakkam.jpg"
+ },
+ "ramapuram": {
+  "file": "studios-ramapuram.html",
+  "phones": [
+   "+91 6379671663"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1992397.1590518598!2d78.10231796326009!3d12.752469623376212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526100b3e70c15%3A0xc5f8c324c4917826!2sRAACK%20ACADEMY%20OF%20DANCE%20-%20BEST%20DANCE%20CLASS%20%2F%20KIDS%20DANCE%20CLASS%20%2F%20HIGH%20STAR%20RATED%20DANCE%20CLASS%20%2F%20ZUMBA%20FITNESS%20CLASS%20IN%20RAMAPURAM!5e0!3m2!1sen!2sin!4v1698994562098!5m2!1sen!2sin",
+  "label": "RAMAPURAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness Program",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little legend",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "Flow Bridge course",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreolab 7 to 12",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP Level 1 intermediate",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab teens",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness Program",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little legend",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "Flow Bridge course",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "Choreolab 7 to 12",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP Level 1 intermediate",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab teens",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness Program",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend Batch 1",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Flow Bridge course",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreolab 7 to 12 Batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP Level 1 intermediate",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab 7 to 12 Batch 2",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab teens",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "Dance Fitness Program",
+     "time": "6.00AM - 7.00AM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Dance Fitness Program",
+     "time": "6.00AM - 7.00AM"
+    },
+    {
+     "program": "RDEP Level 1 intermediate",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Bridge course",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "Choreolab 7 to 12 Batch 1",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab 7 to 12 Batch 2",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 18,
+   "name": "Ramapuram",
+   "address": "Valluvar Salai, near : Arasa Maram, opp. to HP Petrol bunk Top of indian bank, Gokulam Colony, Ramapuram, Chennai, Tamil Nadu 600089",
+   "city": "Chennai",
+   "phone": "+91 6379671663",
+   "lat": 13.0322357,
+   "lng": 80.1835615,
+   "storeUrl": "studios-ramapuram.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Pradeep prasad",
+    "photo": "images-raack/franchise-head/pradeep.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Ramapuram.jpg"
+ },
+ "saidapet": {
+  "file": "studios-saidapet.html",
+  "phones": [
+   "+91 9789997040",
+   "+91 9884821285"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1675420.773107851!2d78.37405158063773!3d12.74927423347461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526747cda3218d%3A0xe63622e6fa9c6c23!2sRaack%20Academy%20of%20Dance%2C%20Saidapet!5e0!3m2!1sen!2sin!4v1698994794483!5m2!1sen!2sin",
+  "label": "SAIDAPET",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR/SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "8.00PM - 9.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB -7 to 12 years",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "11.00PM - 12.00PM"
+    },
+    {
+     "program": "CHOREO LAB -7 to 12 years",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "1.00PM - 2.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 20,
+   "name": "Saidapet",
+   "address": "54, Alandur Rd, Abith Colony, Industrial Area, Saidapet, Chennai, Tamil Nadu 600015",
+   "city": "Chennai",
+   "phone": "+91 9789997040 / 9884821285",
+   "lat": 13.0196563,
+   "lng": 80.2202564,
+   "storeUrl": "studios-saidapet.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "SUMATHI",
+    "photo": "images-raack/franchise-head/sumathi.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Saidapet.png"
+ },
+ "sholinganallur": {
+  "file": "studios-sholinganallur.html",
+  "phones": [
+   "+91 9840339506"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999161.5670218705!2d78.11939947066305!3d11.862379194347623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bfe97a94a57%3A0x9a1287bb0b46ea88!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698995147474!5m2!1sen!2sin",
+  "label": "SHOLIGANALLUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00AM - 8.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00AM - 9.00AM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00AM - 8.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00AM - 9.00AM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00AM - 8.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00AM - 9.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "RDEP - LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "CHOREO LAB (7 to 12yrs)",
+     "time": "11.30AM - 12.30AM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP - LEVEL 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "RDEP - LEVEL 2",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "FILM COVERS",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "CHOREO LAB (7 to 12yrs)",
+     "time": "4.30PM - 5.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 14,
+   "name": "Sholinganallur",
+   "address": "2A, Elcot Ave Main Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+   "city": "Chennai",
+   "phone": "+91 9840339506",
+   "lat": 12.8969393,
+   "lng": 80.2269855,
+   "storeUrl": "studios-sholinganallur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "RAJIV PANDIAN",
+    "photo": "images-raack/franchise-head/rajiv.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Sholinganallur.png"
+ },
+ "sithalapakkam": {
+  "file": "studios-sithalapakkam.html",
+  "phones": [
+   "+91 9003024113",
+   "+919543345345"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d509771640.5391419!2d80.1753592!3d12.891706183322098!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5259e497f2fcff%3A0xe3a51ba8757c8ff0!2sRaack%20Academy%20Of%20Dance%20Sithalapakkam!5e0!3m2!1sen!2sin!4v1746876386760!5m2!1sen!2sin",
+  "label": "SITHALAPAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 32,
+   "name": "Sithalapakkam",
+   "address": "No.3/993, Plot 405, Survey No, 1st Floor, TNHB, 5/3, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Chennai, Tamil Nadu 600126",
+   "city": "Chennai",
+   "phone": "+91 9003024113 / 9543345345",
+   "lat": 12.8906139,
+   "lng": 80.1754781,
+   "storeUrl": "studios-sithalapakkam.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "A Ezra Jerostine",
+    "photo": "images-raack/franchise-head/A_Ezra_Jerostine.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-sithalapakkam.jpg"
+ },
+ "surapet": {
+  "file": "studios-surapet.html",
+  "phones": [
+   "+91 8838723149"
+  ],
+  "maps_embed": null,
+  "label": "SURAPET",
+  "schedule": {
+   "Monday": [],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREOLAB JR",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "FILM COVER SR",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Wednesday": [],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREOLAB JR",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "FILM COVER SR",
+     "time": "6.30PM - 7.30PM"
+    }
+   ],
+   "Friday": [],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "FLOW",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "CHOREOLAB JR",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREOLAB SR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "DANCE FINESS",
+     "time": "8.00AM - 9.00AM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "FLOW",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREOLAB JR",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREOLAB SR",
+     "time": "12.30PM - 1.30PM"
+    },
+    {
+     "program": "DANCE FINESS",
+     "time": "8.00AM - 9.00AM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 27,
+   "name": "Surapet",
+   "address": "Plot no 249, Ambattur Red Hills Rd, Sivaprakasam Nagar, Surapet, Chennai, Tamil Nadu 600066",
+   "city": "Chennai",
+   "phone": "+91 8838723149",
+   "lat": 13.142139,
+   "lng": 80.1847691,
+   "storeUrl": "studios-surapet.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Sandhya A",
+    "photo": "images-raack/franchise-head/Sandhya-A.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Surapet.png"
+ },
+ "tambaram": {
+  "file": "studios-tambaram.html",
+  "phones": [
+   "+91 7845055523"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124440.13084499339!2d80.06033954266958!3d12.923520583392289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f1e01e681fd%3A0x9959a48681c42af5!2sRAACK%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698995630086!5m2!1sen!2sin",
+  "label": "TAMBARAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP Level 1 batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP Level 1 batch 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.00AM - 7.00AM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP Level 1 batch 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP Level 1 batch 2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "6.00AM - 7.00AM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "10.00AM - 11.00AM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance fitness",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Choreography",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "3.30PM - 4.30PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 1",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 2",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "Choreolab",
+     "time": "7.30PM - 8.30PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "8.30PM - 9.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "Choreography",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 1",
+     "time": "11.00PM - 12.00PM"
+    },
+    {
+     "program": "RDEP Level 1 Batch 1",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "RDEP Level 2",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab",
+     "time": "2.00PM - 3.00PM"
+    },
+    {
+     "program": "Film cover",
+     "time": "3.00PM - 4.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 4,
+   "name": "Tambaram",
+   "address": "No 7&8, 100 Feet Main Road Sri Ram Nagar, Selaiyur, Tambaram, near Camp Road, Mahalakshmi Nagar, Signal, Chennai, Tamil Nadu 600073",
+   "city": "Chennai",
+   "phone": "+91 7845055523  / 9962609365",
+   "lat": 12.9235335,
+   "lng": 80.1427414,
+   "storeUrl": "studios-tambaram.html",
+   "hours": "6:30 AM \u2013 10:00 PM",
+   "offer": "Family pack",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/Tambaram.png"
+ },
+ "thanjavur": {
+  "file": "studios-thanjavur.html",
+  "phones": [
+   "+91 9003009391"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.734780058144!2d79.1179230750259!3d10.754912059590195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baab93c89331095%3A0x9bf28bdd62757b30!2sRaack%20Academy%20of%20Dance%20Thanjavur!5e0!3m2!1sen!2sin!4v1767183934955!5m2!1sen!2sin",
+  "label": "THANJAVUR",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 38,
+   "name": "Thanjavur",
+   "address": "Devi Towers, MIG-81/87, Marutham St, New Housing Unit, Thanjavur, Tamil Nadu 613005",
+   "city": "Thanjavur",
+   "phone": "+91 9003009391",
+   "lat": 10.7549068,
+   "lng": 79.120498,
+   "storeUrl": "studios-thanjavur.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Pavithra B",
+    "photo": "images-raack/franchise-head/pavithra_B.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-thanjavur.jpg"
+ },
+ "thiruverkadu": {
+  "file": "studios-thiruverkadu.html",
+  "phones": [
+   "+91 89255 15104",
+   "+91 88259 57192"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4382587453224!2d80.1175001!3d13.0713878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526100016af295%3A0xbcdf4405d9fc4fa3!2sRaack%20Academy%20of%20Dance%20Thiruverkadu!5e0!3m2!1sen!2sin!4v1725024763323!5m2!1sen!2sin",
+  "label": "THIRUVERKADU",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Dance Fitness",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGEND",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "FLOW",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Dance Fitness",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGEND",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "FLOW",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "6.30AM - 7.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGEND",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "CHOREO LAB JR 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGEND",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "CHOREO LAB JR",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREO LAB JR 2",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 26,
+   "name": "Thiruverkadu",
+   "address": "30, Sivan Kovil Rd, Thiruverkadu, Chennai, Thiruverkadu, Tamil Nadu 600077",
+   "city": "Chennai",
+   "phone": "+91 8925515104 / 8825957192",
+   "lat": 13.0714008,
+   "lng": 80.1175011,
+   "storeUrl": "studios-thiruverkadu.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Rajvarman SM",
+    "photo": "images-raack/franchise-head/Rajvarman.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Thiruverkadu.jpg"
+ },
+ "thoraipakkam": {
+  "file": "studios-thoraipakkam.html",
+  "phones": [
+   "+91 8778437344"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998928.616258047!2d78.12153848034818!3d11.894122288449553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d012d3cd28f%3A0x8be2fec697e6c00c!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698995789461!5m2!1sen!2sin",
+  "label": "THORAIPAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.30PM - 5.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.30PM - 6.30PM"
+    },
+    {
+     "program": "RDEP LEVEL 2",
+     "time": "6.30PM - 7.30PM"
+    },
+    {
+     "program": "CHOREO LAB SR/TEEN",
+     "time": "7.30PM - 8.30PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "DANCE FITNESS",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "DANCE FITNESS",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "CHOREO LAB (7 to 12yrs)",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "FILM COVERS -TEENS",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "LITTLE LEGENDS",
+     "time": "9.30AM - 10.30AM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "CHOREO LAB (7 to 12yrs)",
+     "time": "11.30AM - 12.30PM"
+    },
+    {
+     "program": "FILM COVERS -TEENS",
+     "time": "12.30PM - 1.30PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 6,
+   "name": "Thoraipakkam",
+   "address": "PLOT NO 3 AND 4, WEST WING, 200 Feet Radial Rd, Vinayaganagar, MCN Nagar Extension, Thoraipakkam, Chennai, Tamil Nadu 600097",
+   "city": "Chennai",
+   "phone": "+91 8778437344",
+   "lat": 12.949645,
+   "lng": 80.2356033,
+   "storeUrl": "studios-thoraipakkam.html",
+   "hours": "7:00 AM \u2013 10:00 PM",
+   "offer": "Corporate plan",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "ANTHONY RAJA",
+    "photo": "images-raack/franchise-head/anthony_raja.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/Thoraipakkam.png"
+ },
+ "urapakkam": {
+  "file": "studios-urapakkam.html",
+  "phones": [
+   "+91 8754537733"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d972.4056770259131!2d80.06654121811847!3d12.867628055053544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f739ef2029d7%3A0xf75227efa8405dc8!2sRaack%20Academy%20Of%20Dance%20Urapakkam!5e0!3m2!1sen!2sin!4v1767182309461!5m2!1sen!2sin",
+  "label": "URAPAKKAM",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 37,
+   "name": "urapakkam",
+   "address": "16, Railway Station Road, Selvaraj Nagar, Vardhaman Nagar, Chennai, Tamil Nadu 603211",
+   "city": "Chennai",
+   "phone": "+91 8754537733",
+   "lat": 12.8676276,
+   "lng": 80.0675423,
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": null
+ },
+ "velachery": {
+  "file": "studios-velachery.html",
+  "phones": [
+   "+91 9003024113",
+   "+919543345345"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d295858.60132218956!2d80.06105741068215!3d13.017317760505847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d90d4674d77%3A0xb3fda63ee24a2fab!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698926927117!5m2!1sen!2sin",
+  "label": "HEAD OFFICE STUDIO",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 2,
+   "name": "Velachery",
+   "address": "Sri Supra Towers, Plot No 22, 3rd Cross St, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+   "city": "Chennai",
+   "phone": "+91 9003024113 / 9543345345",
+   "lat": 12.9723794,
+   "lng": 80.2183968,
+   "storeUrl": "studios-velachery.html",
+   "hours": "7:00 AM \u2013 10:00 PM",
+   "offer": "Student pass",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [],
+  "hero": "images-raack/studio-bg-image/velachery.png"
+ },
+ "vyasarbadi": {
+  "file": "studios-vyasarbadi.html",
+  "phones": [
+   "98402 83265"
+  ],
+  "maps_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7771.660158430134!2d80.253456!3d13.1099487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265144957d211%3A0x587362c327f0233b!2sRaack%20Academy%20Of%20Dance%20-%20Vyasarpadi!5e0!3m2!1sen!2sin!4v1790848258392!5m2!1sen!2sin",
+  "label": "Vyasarpadi",
+  "schedule": {
+   "Monday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Tuesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Wednesday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreo LAB (Sr/Teens)",
+     "time": "7.00PM - 8.00PM"
+    }
+   ],
+   "Thursday": [
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL 1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    },
+    {
+     "program": "Choreo LAB Juniors",
+     "time": "6.00PM - 7.00PM"
+    }
+   ],
+   "Friday": [
+    {
+     "program": "Dance Fitness",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Dance Fitness",
+     "time": "10.30AM - 11.30AM"
+    }
+   ],
+   "Saturday": [
+    {
+     "program": "Little Legend",
+     "time": "3.00PM - 4.00PM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "4.00PM - 5.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "5.00PM - 6.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "6.00PM - 7.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "7.00PM - 8.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "8.00PM - 9.00PM"
+    }
+   ],
+   "Sunday": [
+    {
+     "program": "Little Legend",
+     "time": "9.00AM - 10.00AM"
+    },
+    {
+     "program": "Little Legend",
+     "time": "10.00AM - 11.00AM"
+    },
+    {
+     "program": "RDEP LEVEL-1",
+     "time": "11.00AM - 12.00PM"
+    },
+    {
+     "program": "RDEP LEVEL-2",
+     "time": "12.00PM - 1.00PM"
+    },
+    {
+     "program": "Choreolab Junior",
+     "time": "1.00PM - 2.00PM"
+    },
+    {
+     "program": "Choreolab Teens",
+     "time": "2.00PM - 3.00PM"
+    }
+   ]
+  },
+  "gallery": [
+   "images-raack/gallery/arrow.png",
+   "images-raack/gallery/dance-academy-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-adults-in-chennai.png",
+   "images-raack/gallery/dance-classes-for-kids-in-chennai.png",
+   "images-raack/gallery/dance-classes-in-chennai.png"
+  ],
+  "locator": {
+   "id": 48,
+   "name": "Vyasarpadi",
+   "address": "1st Floor, 6, 1st St, opposite to RADIANCE EMPIRE, Avvai Nagar, Vyasar Nagar Colony, Vyasarpadi, Chennai, Tamil Nadu 600039",
+   "city": "Chennai",
+   "phone": "+91 9840283265",
+   "lat": 13.1099487,
+   "lng": 80.253456,
+   "storeUrl": "studios-vyasarbadi.html",
+   "hours": "6:30 AM \u2013 9:30 PM",
+   "offer": "Beach batch",
+   "status": "OPEN TODAY"
+  },
+  "branch_heads": [
+   {
+    "name": "Bharath",
+    "photo": "images-raack/franchise-head/Bharath.png"
+   }
+  ],
+  "hero": "images-raack/studio-bg-image/dance-classes-in-vyasarpadi.jpg"
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "https://raackdance.com/": {
+  "status": 200,
+  "final": "https://raackdance.com/"
+ },
+ "https://raackdance.com/header.html": {
+  "status": 200,
+  "final": "https://raackdance.com/header.html"
+ },
+ "https://raackdance.com/footer.html": {
+  "status": 200,
+  "final": "https://raackdance.com/footer.html"
+ },
+ "https://raackdance.com/dance-classes-for-adults.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-for-adults.html"
+ },
+ "https://raackdance.com/dance-academy.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-academy.html"
+ },
+ "https://raackdance.com/dance-schools.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-schools.html"
+ },
+ "https://raackdance.com/dance-classes.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes.html"
+ },
+ "https://raackdance.com/dance-academy-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-academy-chennai.html"
+ },
+ "https://raackdance.com/dance-classes-for-kids.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-for-kids.html"
+ },
+ "https://raackdance.com/dance-classes-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-in-chennai.html"
+ },
+ "https://raackdance.com/dance-studios-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-studios-in-chennai.html"
+ },
+ "https://raackdance.com/studios-kilpauk.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kilpauk.html"
+ },
+ "https://raackdance.com/studios-mylapore.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-mylapore.html"
+ },
+ "https://raackdance.com/studios-velachery.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-velachery.html"
+ },
+ "https://raackdance.com/studios-cuddalore.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-cuddalore.html"
+ },
+ "https://raackdance.com/studios-tambaram.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-tambaram.html"
+ },
+ "https://raackdance.com/studios-mogappair.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-mogappair.html"
+ },
+ "https://raackdance.com/studios-thoraipakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-thoraipakkam.html"
+ },
+ "https://raackdance.com/studios-avadi.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-avadi.html"
+ },
+ "https://raackdance.com/studios-keelkattalai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-keelkattalai.html"
+ },
+ "https://raackdance.com/studios-mugalivakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-mugalivakkam.html"
+ },
+ "https://raackdance.com/studios-neelankarai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-neelankarai.html"
+ },
+ "https://raackdance.com/studios-kolathur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kolathur.html"
+ },
+ "https://raackdance.com/studios-pallikaranai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-pallikaranai.html"
+ },
+ "https://raackdance.com/studios-sholinganallur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-sholinganallur.html"
+ },
+ "https://raackdance.com/studios-old-perungalathur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-old-perungalathur.html"
+ },
+ "https://raackdance.com/studios-guduvanchery.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-guduvanchery.html"
+ },
+ "https://raackdance.com/studios-ramapuram.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-ramapuram.html"
+ },
+ "https://raackdance.com/studios-pondicherry.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-pondicherry.html"
+ },
+ "https://raackdance.com/studios-saidapet.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-saidapet.html"
+ },
+ "https://raackdance.com/images-raack/About": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/mail/conmail.php": {
+  "status": 200,
+  "final": "https://raackdance.com/mail/conmail.php"
+ },
+ "https://raackdance.com/enquiry-form.html": {
+  "status": 200,
+  "final": "https://raackdance.com/enquiry-form.html"
+ },
+ "https://raackdance.com/dance-schools-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-schools-in-chennai.html"
+ },
+ "https://raackdance.com/choreo-camp-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/choreo-camp-chennai.html"
+ },
+ "https://raackdance.com/dance-studios-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-studios-chennai.html"
+ },
+ "https://raackdance.com/dance-schools-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-schools-chennai.html"
+ },
+ "https://raackdance.com/dance-classes-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-chennai.html"
+ },
+ "https://raackdance.com/faculties-training-academy.html": {
+  "status": 200,
+  "final": "https://raackdance.com/faculties-training-academy.html"
+ },
+ "https://raackdance.com/index.html": {
+  "status": 200,
+  "final": "https://raackdance.com/index.html"
+ },
+ "https://raackdance.com/dance-academy-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-academy-in-chennai.html"
+ },
+ "https://raackdance.com/dance-classes-for-kids-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-for-kids-in-chennai.html"
+ },
+ "https://raackdance.com/store-locator.html": {
+  "status": 200,
+  "final": "https://raackdance.com/store-locator.html"
+ },
+ "https://raackdance.com/dance-classes-for-adults-in-chennai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-classes-for-adults-in-chennai.html"
+ },
+ "https://raackdance.com/studios-ayapakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-ayapakkam.html"
+ },
+ "https://raackdance.com/studios-oldpallavaram.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-oldpallavaram.html"
+ },
+ "https://raackdance.com/studios-arumbakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-arumbakkam.html"
+ },
+ "https://raackdance.com/studios-mannivakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-mannivakkam.html"
+ },
+ "https://raackdance.com/studios-chidambaram.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-chidambaram.html"
+ },
+ "https://raackdance.com/studios-hasthinapuram.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-hasthinapuram.html"
+ },
+ "https://raackdance.com/studios-thiruverkadu.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-thiruverkadu.html"
+ },
+ "https://raackdance.com/studios-surapet.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-surapet.html"
+ },
+ "https://raackdance.com/studios-maraimalainagar.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-maraimalainagar.html"
+ },
+ "https://raackdance.com/studios-padur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-padur.html"
+ },
+ "https://raackdance.com/studios-medavakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-medavakkam.html"
+ },
+ "https://raackdance.com/studios-ambattur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-ambattur.html"
+ },
+ "https://raackdance.com/studios-padappai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-padappai.html"
+ },
+ "https://raackdance.com/studios-sithalapakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-sithalapakkam.html"
+ },
+ "https://raackdance.com/studios-perumbakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-perumbakkam.html"
+ },
+ "https://raackdance.com/studios-basavanagudi.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-basavanagudi.html"
+ },
+ "https://raackdance.com/studios-pudupakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-pudupakkam.html"
+ },
+ "https://raackdance.com/studios-pammal.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-pammal.html"
+ },
+ "https://raackdance.com/studios-urapakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-urapakkam.html"
+ },
+ "https://raackdance.com/studios-thanjavur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-thanjavur.html"
+ },
+ "https://raackdance.com/studios-kumbakonam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kumbakonam.html"
+ },
+ "https://raackdance.com/studios-maduravoyal.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-maduravoyal.html"
+ },
+ "https://raackdance.com/studios-kandigai.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kandigai.html"
+ },
+ "https://raackdance.com/studios-kundrathur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kundrathur.html"
+ },
+ "https://raackdance.com/studios-kelambakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kelambakkam.html"
+ },
+ "https://raackdance.com/studios-madambakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-madambakkam.html"
+ },
+ "https://raackdance.com/studios-navalur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-navalur.html"
+ },
+ "https://raackdance.com/studios-iyyappanthangal.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-iyyappanthangal.html"
+ },
+ "https://raackdance.com/studios-mappedu.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-mappedu.html"
+ },
+ "https://raackdance.com/studios-polachery.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-polachery.html"
+ },
+ "https://raackdance.com/studios-kattur.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kattur.html"
+ },
+ "https://raackdance.com/dance-academy-classes.html": {
+  "status": 200,
+  "final": "https://raackdance.com/dance-academy-classes.html"
+ },
+ "https://raackdance.com/studios-vyasarbadi.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-vyasarbadi.html"
+ },
+ "https://raackdance.com/studios-kolapakkam.html": {
+  "status": 200,
+  "final": "https://raackdance.com/studios-kolapakkam.html"
+ },
+ "https://raackdance.com/mail/conmail-studio.php": {
+  "status": 200,
+  "final": "https://raackdance.com/mail/conmail-studio.php"
+ },
+ "https://raackdance.com/tel+919962609365": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/mail/mail.php": {
+  "status": 200,
+  "final": "https://raackdance.com/mail/mail.php"
+ },
+ "https://raackdance.com/mail/conmail-event.php": {
+  "status": 200,
+  "final": "https://raackdance.com/mail/conmail-event.php"
+ },
+ "https://raackdance.com/mail/conmail-careers.php": {
+  "status": 200,
+  "final": "https://raackdance.com/mail/conmail-careers.php"
+ },
+ "https://raackdance.com/300": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/600": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/700": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/800": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/900&display=swap": {
+  "status": "HTTP Error 404: Not Found"
+ },
+ "https://raackdance.com/images-raack/studio-bg-image/": {
+  "status": "HTTP Error 403: Forbidden"
+ }
+}

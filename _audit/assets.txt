@@ -1,0 +1,320 @@
+EXT https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.min.js
+EXT https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+EXT https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js
+EXT https://code.jquery.com/jquery-2.1.1.min.js
+EXT https://fonts.googleapis.com
+EXT https://fonts.googleapis.com/css2?family=Inter:opsz
+EXT https://fonts.gstatic.com
+EXT https://maps.app.goo.gl/48WNkTkVoxnJ7faz7
+EXT https://maps.app.goo.gl/CBJ495KwgVUbGSis8
+EXT https://maps.app.goo.gl/DpAEhxawXTFvC5CS6
+EXT https://maps.app.goo.gl/H2v9aE1m5u1JLtN57
+EXT https://maps.app.goo.gl/MKaT7cyPPSjZVYmv7
+EXT https://maps.app.goo.gl/TiCWqRZ1dY7qqB749
+EXT https://maps.app.goo.gl/bVbcuzMZnQnt55gb6
+EXT https://maps.app.goo.gl/cobk6CJznhNQ5zPD6
+EXT https://maps.app.goo.gl/sCWj5aCmV4jJbpoB7
+EXT https://maps.app.goo.gl/wEGdWuKxWbmwka1n9
+EXT https://raackdance.co.in/
+EXT https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+EXT https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+EXT https://whatsapp.com/channel/0029VapQ8FPDjiOlXSH9sa32
+EXT https://www.facebook.com/danceatraack/
+EXT https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15542.057796033936!2d80.1571485!3d13.129917!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52630043b426d7%3A0x71d9a16501c03a4a!2sRaack%20Ambattur!5e0!3m2!1sen!2sin!4v1726222020411!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15543.750234933925!2d80.1337399!3d13.1031422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c6155c0d75686fd%3A0x4e95dcd27bf2fa33!2sRAACK%20AYAPAKKAM!5e0!3m2!1sen!2sin!4v1729750580867!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d295858.60132218956!2d80.06105741068215!3d13.017317760505847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d90d4674d77%3A0xb3fda63ee24a2fab!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698926927117!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3911.125374125494!2d79.6944525!3d11.3984391!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54c300595f0f91%3A0x2d24957781167eb8!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1725023192466!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7771.660158430134!2d80.253456!3d13.1099487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265144957d211%3A0x587362c327f0233b!2sRaack%20Academy%20Of%20Dance%20-%20Vyasarpadi!5e0!3m2!1sen!2sin!4v1790848258392!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d509771640.5391419!2d80.1753592!3d12.891706183322098!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5259e497f2fcff%3A0xe3a51ba8757c8ff0!2sRaack%20Academy%20Of%20Dance%20Sithalapakkam!5e0!3m2!1sen!2sin!4v1746876386760!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1001228.1568623981!2d78.5782912124921!3d11.404097197469202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53613d724b6793%3A0x21586a1534d8381d!2sRAACK%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698994323462!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1001546.3290718527!2d78.54841319620519!3d11.313475734540674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54989b25bef967%3A0xf4e8c8473714efeb!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698990615186!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124440.13084499339!2d80.06033954266958!3d12.923520583392289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f1e01e681fd%3A0x9959a48681c42af5!2sRAACK%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698995630086!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124457.99985099719!2d79.87127065658566!3d12.887616487884012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f7c2f378b343%3A0x66b5ed1a32d8760c!2sRAACK%20Academy%20of%20Dance%2C%20Padappai!5e0!3m2!1sen!2sin!4v1789802464742!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1673246.4563632305!2d78.38425847558605!3d13.073842750945795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ad1b7a87ab%3A0x6e14d7a0b9d2c60f!2sRaack%20Academy%20of%20Dance%20kolathur!5e0!3m2!1sen!2sin!4v1698992145025!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1673867.4746147045!2d78.81021522564436!3d12.981954820471659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5263136a94152b%3A0x9b5fcc2d8f7d12e!2sRAACK%20ACADEMY%20OF%20DANCE%20MOGAPPAIR!5e0!3m2!1sen!2sin!4v1698992468865!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1674900.9905180098!2d78.3842342436783!3d12.82759843591901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261eb909585b1%3A0xbc52678a317d3673!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698992702188!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1675420.773107851!2d78.37405158063773!3d12.74927423347461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526747cda3218d%3A0xe63622e6fa9c6c23!2sRaack%20Academy%20of%20Dance%2C%20Saidapet!5e0!3m2!1sen!2sin!4v1698994794483!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1677470.1538642936!2d78.43768868053576!3d12.435734385246597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525e7624e90d9b%3A0xe6e79b7d2fb1b2ba!2sRaack%20Academy%20Of%20Dance%20Keelkattalai!5e0!3m2!1sen!2sin!4v1698991122230!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17646.515335459506!2d80.17759219788773!3d12.891432085816723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525ba86bece20b%3A0xbdfa41b806015f93!2sRaack%20academy%20of%20dance%20Perumbakkam!5e0!3m2!1sen!2sin!4v1746876286437!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.0569676027264!2d80.12439007770423!3d12.964560560963193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2209ad1b486b58eb%3A0x5c51b16a7cf90c22!2sRaack%20Academy%20of%20Dance%20Pammal!5e0!3m2!1sen!2sin!4v1761116578854!5m2!1sen!2si
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.4973456995215!2d80.15577264075013!3d12.908062499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa58edc7f2b04ee65%3A0xd41151a927800cbc!2sRaack%20Academy%20Of%20Dance%20Madambakkam!5e0!3m2!1sen!2sin!4v1779277328759!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1991060.8797659124!2d80.09161105765934!3d12.921164399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f5516dc14cdf%3A0x254e9af4d917a63e!2sRAACK%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1699000987310!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1992397.1590518598!2d78.10231796326009!3d12.752469623376212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526100b3e70c15%3A0xc5f8c324c4917826!2sRAACK%20ACADEMY%20OF%20DANCE%20-%20BEST%20DANCE%20CLASS%20%2F%20KIDS%20DANCE%20CLASS%20%2F%20HIGH%20STAR%20RATED%20DANCE%20CLASS%20%2F%20ZUMBA%20FITNESS%20CLASS%20IN%20RAMAPURAM!5e0!3m2!1sen!2sin!4v1698994562098!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1993708.890940628!2d78.10935641139866!3d12.584711482184018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d49460d699b%3A0xe0b237f0ae2732a!2sRAACK%20ACADEMY%20OF%20DANCE%2FWestern%20Dance%20Class%2FDance%20Class%2FNeelankarai%2Fecr%2FPalavakkam%2Finjambakkam%2Fkottivakkam%2Fvettuvankeni!5e0!3m2!1sen!2sin!4v1698993023615!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998928.616258047!2d78.12153848034818!3d11.894122288449553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d012d3cd28f%3A0x8be2fec697e6c00c!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698995789461!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1998994.054272862!2d78.1073969714467!3d11.885213800678114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d6211bee343%3A0x4a5e64ee9e778d9!2sRaack%20Academy%20of%20dance%20Pallikaranai!5e0!3m2!1sen!2sin!4v1698993246275!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999161.5670218705!2d78.11939947066305!3d11.862379194347623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bfe97a94a57%3A0x9a1287bb0b46ea88!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698995147474!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1999333.6415081453!2d78.04155771576828!3d11.838877551989997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f78578a66dc7%3A0x78bdb9dd8e3f1344!2sRaack%20Academy%20of%20Dance%20%E2%80%93%20BEST%20DANCE%20CLASS%20%7C%20KIDS%20DANCE%20CLASS%20%7C%20ZUMBA%20CLASS%20%2F%20WESTERN%20DANCE%20CLASS%20IN%20GUDUVANCHERRY!5e0!3m2!1sen!2sin!4v1698990907802!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2826239.061461487!2d77.29709903625047!3d11.95870069707986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52642ef9b85445%3A0x9c32f806db88ed0!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1698912838466!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.6880926708845!2d80.20583707381208!3d13.072597812658467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526733ce7a61d3%3A0x2cd0d87702613981!2sRaack%20Academy%20of%20dance%20Arumbakkam!5e1!3m2!1sen!2sin!4v1730205146769!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31095.20324791882!2d80.09891107431639!3d13.042011000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261c45a30373f%3A0xf6b418564879a086!2sRAACK%20Academy%20of%20Dance%20%E2%80%93%20Iyyappanthangal!5e0!3m2!1sen!2sin!4v1781859358764!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.321028353222!2d80.1847691!3d13.142139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526325a5820a2f%3A0xa51928f7e338acd6!2sRaack%20Academy%20of%20Dance%20Surapet!5e0!3m2!1sen!2sin!4v1725025183482!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4382587453224!2d80.1175001!3d13.0713878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526100016af295%3A0xbcdf4405d9fc4fa3!2sRaack%20Academy%20of%20Dance%20Thiruverkadu!5e0!3m2!1sen!2sin!4v1725024763323!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.576283814868!2d80.1661952750526!3d13.062620912876204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261ea3ca98019%3A0x181a51cf2390d1b0!2sRaack%20Academy%20of%20Dance%20Maduravoyal!5e0!3m2!1sen!2sin!4v1767184608962!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3823104764356!2d80.153002!3d13.0113089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52612ab1051c0b%3A0xd25ec9bdacd27a66!2sRaack%20Academy%20of%20Dance%20%E2%80%93%20Kolapakkam!5e0!3m2!1sen!2sin!4v1790850461751!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.611856168001!2d80.1075342!3d12.9966595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261a383e8a5d1%3A0xb601117b1ac3bbf5!2sRaack%20Academy%20of%20Dance%20-%20Kundrathur!5e0!3m2!1sen!2sin!4v1769495239964!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.159377291242!2d80.1593791!3d12.961651499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f005784f3a5%3A0xb5032ece4da7e423!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1725020655547!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.4892220372994!2d80.1484205!3d12.940516599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525f9525f29993%3A0xb7454eb5c14811b7!2sRaack%20Academy%20of%20Dance%20-%20Hasthinapuram!5e0!3m2!1sen!2sin!4v1725023905585!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.5231284121674!2d77.56836171015588!3d12.938342115554885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae150c45ac2a93%3A0xe2148fafe305e2de!2sRaack%20Basavanagudi!5e0!3m2!1sen!2sin!4v1746876477752!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.0932610427976!2d80.0652806!3d12.901724399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f5e6bcfb5839%3A0x70724f34b8492bfe!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1725021790229!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.4190161635247!2d80.1362973!3d12.880756300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5259c9aebdb165%3A0xfd7ef7429ea80153!2sRaack%20Academy%20Of%20Dance%20Mappedu!5e0!3m2!1sen!2sin!4v1784907470825!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9015980647387!2d80.1414945!3d12.849631800000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52596005308549%3A0x71374ec27cc5231d!2sRaack%20Academy%20of%20dance%20-%20Kandigai!5e0!3m2!1sen!2sin!4v1769493074344!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9276802100867!2d80.2268036!3d12.847947500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bfa11f80207%3A0x4326bc430eb98545!2sRaack%20Academy%20of%20Dance%20Navalur!5e0!3m2!1sen!2sin!4v1779694260161!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.5957235312985!2d80.22382669999999!3d12.804733200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5251a6d05e9cef%3A0x274b47425f9a91d0!2sRaack%20Academy%20of%20Dance%2C%20Padur!5e0!3m2!1sen!2sin!4v1725024938051!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.77204653348!2d80.02563289999999!3d12.793303300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f911c293c543%3A0xf584e6d391882473!2sRaack%20Academy%20of%20Dance!5e0!3m2!1sen!2sin!4v1725025075958!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.937451673424!2d80.21819599999999!3d12.782571999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5251ec75601353%3A0x478a51cd3c2bf631!2sRaack%20Academy%20of%20Dance%20-%20Kelambakkam!5e0!3m2!1sen!2sin!4v1779194505660!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.0580866360506!2d79.38760077502799!3d10.958984955799872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5533cfbf87a6bb%3A0xd53bb4210a1efe90!2sRaack%20Academy%20of%20Dance%20Kumbakonam!5e0!3m2!1sen!2sin!4v1767184315810!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1828617052483!2d78.75124107502636!3d10.797302558808495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baaf3e7e3a8515d%3A0xc1f3217e137a6ac!2sRaack%20Academy%20of%20Dance%20Trichy!5e0!3m2!1sen!2sin!4v1794565373863!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.734780058144!2d79.1179230750259!3d10.754912059590195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baab93c89331095%3A0x9bf28bdd62757b30!2sRaack%20Academy%20of%20Dance%20Thanjavur!5e0!3m2!1sen!2sin!4v1767183934955!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418691.41486325354!2d79.83710953699435!3d12.847913958730533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267d247a51bad%3A0x95d966da5409dcae!2sRaack%20Academy%20Of%20Dance!5e0!3m2!1sen!2sin!4v1698922543186!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d735971.8571191197!2d79.44629305400362!3d12.762000673544362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526279f495cf79%3A0xd778f18237d39591!2sRaack%20Academy%20of%20Dance%20%2CAvadi!5e0!3m2!1sen!2sin!4v1698989981570!5m2!1sen!2sin
+EXT https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d972.4056770259131!2d80.06654121811847!3d12.867628055053544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f739ef2029d7%3A0xf75227efa8405dc8!2sRaack%20Academy%20Of%20Dance%20Urapakkam!5e0!3m2!1sen!2sin!4v1767182309461!5m2!1sen!2sin
+EXT https://www.instagram.com/raack_official/
+EXT https://www.linkedin.com/in/raack-academy-of-dance-1031a9341/
+EXT https://www.youtube.com/@raackacademyofdance6792
+EXT https://www.youtube.com/embed/37nr0wNzar4
+EXT https://www.youtube.com/embed/BximtcOaEmY
+EXT https://www.youtube.com/embed/PPVhTnvB-k8
+EXT https://www.youtube.com/embed/PgkFtdh9UQc?si=ws5P2IBdzrO18qjQ
+EXT https://www.youtube.com/embed/UKAc2SdY-94
+EXT https://www.youtube.com/embed/UhVetG6Dae4
+EXT https://www.youtube.com/embed/YmrlaaTzaZY
+EXT https://www.youtube.com/embed/_rJB38jz6Rc
+EXT https://www.youtube.com/embed/aQXcVb_yTK8
+EXT https://www.youtube.com/embed/gGKb0l_Hl7k?si=S7phvJGKKw88H5DW
+EXT https://www.youtube.com/embed/it9Zsj5KcyQ
+EXT https://www.youtube.com/embed/jFSDM1wMVWg
+EXT https://www.youtube.com/embed/mF9Rf936D_I?si=I6EvydMobIi1W6TA
+EXT https://www.youtube.com/embed/o87VXsXLpQw
+EXT https://www.youtube.com/embed/uCdrwTvJoOY?si=rSISNMwaBqZoWhcF
+EXT https://www.youtube.com/embed/uWW7VA3rgS0
+EXT https://www.youtube.com/embed/usEkcGvD7A8
+EXT https://www.youtube.com/embed/xfKMJ4IPTcI
+EXT https://x.com/your-profile
+https://raackdance.com/css/custom/my.css
+https://raackdance.com/css/custom/style.css
+https://raackdance.com/css/custom/style.css?v1
+https://raackdance.com/css/vendor/animate.min.css
+https://raackdance.com/css/vendor/bootstrap.min.css
+https://raackdance.com/css/vendor/calendar.css
+https://raackdance.com/css/vendor/fontawesome.min.css
+https://raackdance.com/css/vendor/owl-carousel/owl.carousel.css
+https://raackdance.com/css/vendor/owl-carousel/owl.carousel2.min.css
+https://raackdance.com/css/vendor/owl-carousel/owl.theme.css
+https://raackdance.com/css/vendor/owl-carousel/owl.theme.default.min.css
+https://raackdance.com/images-raack/114x52.png
+https://raackdance.com/images-raack/682x674.png
+https://raackdance.com/images-raack/Ascent-Long.png
+https://raackdance.com/images-raack/Ascent-Short.png
+https://raackdance.com/images-raack/Our-Philosophy.png
+https://raackdance.com/images-raack/careers/abirami.jpg
+https://raackdance.com/images-raack/careers/arrow.png
+https://raackdance.com/images-raack/careers/evaPinFill2.svg
+https://raackdance.com/images-raack/careers/joshi.jpg
+https://raackdance.com/images-raack/careers/rajvarma.jpg
+https://raackdance.com/images-raack/client-logo-1-clr.png
+https://raackdance.com/images-raack/client-logo-1.png
+https://raackdance.com/images-raack/client-logo-2-clr.png
+https://raackdance.com/images-raack/client-logo-2.png
+https://raackdance.com/images-raack/client-logo-3-clr.png
+https://raackdance.com/images-raack/client-logo-3.png
+https://raackdance.com/images-raack/client-logo-4-clr.png
+https://raackdance.com/images-raack/client-logo-4.png
+https://raackdance.com/images-raack/client-logo-5-clr.png
+https://raackdance.com/images-raack/client-logo-5.png
+https://raackdance.com/images-raack/client-logo-6-clr.png
+https://raackdance.com/images-raack/client-logo-6.png
+https://raackdance.com/images-raack/contact/elanthiriyan.jpg
+https://raackdance.com/images-raack/contact/header.png
+https://raackdance.com/images-raack/contact/map.png
+https://raackdance.com/images-raack/contact/underline.png
+https://raackdance.com/images-raack/core-team/Gugan.png
+https://raackdance.com/images-raack/core-team/Kavi-chakravarthi.png
+https://raackdance.com/images-raack/core-team/Vibinesh.png
+https://raackdance.com/images-raack/core-team/Vijay-Kumar.png
+https://raackdance.com/images-raack/core-team/team-2.png
+https://raackdance.com/images-raack/courses/client-logo-1.png
+https://raackdance.com/images-raack/courses/client-logo-2.png
+https://raackdance.com/images-raack/courses/client-logo-3.png
+https://raackdance.com/images-raack/courses/client-logo-4.png
+https://raackdance.com/images-raack/courses/client-logo-5.png
+https://raackdance.com/images-raack/courses/client-logo-6.png
+https://raackdance.com/images-raack/courses/client-logo-7.png
+https://raackdance.com/images-raack/courses/course-1.png
+https://raackdance.com/images-raack/courses/course-2.png
+https://raackdance.com/images-raack/courses/course-3.png
+https://raackdance.com/images-raack/courses/course-4.png
+https://raackdance.com/images-raack/courses/course-5.png
+https://raackdance.com/images-raack/courses/course-7.png
+https://raackdance.com/images-raack/courses/header.jpg
+https://raackdance.com/images-raack/dance-schools-in-chennai.png
+https://raackdance.com/images-raack/dance-studios-in-chennai.png
+https://raackdance.com/images-raack/events/events.png
+https://raackdance.com/images-raack/events/happy-feet-2025.jpg
+https://raackdance.com/images-raack/faculties/header.jpg
+https://raackdance.com/images-raack/franchise-1/arrow-icon.png
+https://raackdance.com/images-raack/franchise-head/11.png
+https://raackdance.com/images-raack/franchise-head/A_Ezra_Jerostine.png
+https://raackdance.com/images-raack/franchise-head/AiswaryaJagatheesan.png
+https://raackdance.com/images-raack/franchise-head/Ajith-Kumar.png
+https://raackdance.com/images-raack/franchise-head/Anitha-CV.png
+https://raackdance.com/images-raack/franchise-head/Bharath.png
+https://raackdance.com/images-raack/franchise-head/Gugan.png
+https://raackdance.com/images-raack/franchise-head/Joel-Victor-Ezhilarasan.png
+https://raackdance.com/images-raack/franchise-head/Kalaivani.png
+https://raackdance.com/images-raack/franchise-head/Karthika.png
+https://raackdance.com/images-raack/franchise-head/Mahalakshmi-D.png
+https://raackdance.com/images-raack/franchise-head/Mahjabeen_Reyaz.png
+https://raackdance.com/images-raack/franchise-head/Meenambiga.png
+https://raackdance.com/images-raack/franchise-head/Muthukumar-Narayanan.png
+https://raackdance.com/images-raack/franchise-head/Nithya_sathish.png
+https://raackdance.com/images-raack/franchise-head/Pavithra_Aravind.png
+https://raackdance.com/images-raack/franchise-head/Rajangam-Neelankarai.png
+https://raackdance.com/images-raack/franchise-head/Rajvarman.png
+https://raackdance.com/images-raack/franchise-head/Sandhya-A.png
+https://raackdance.com/images-raack/franchise-head/Saravanan.png
+https://raackdance.com/images-raack/franchise-head/Thileepa-TL-1.png
+https://raackdance.com/images-raack/franchise-head/Thileepa-TL.png
+https://raackdance.com/images-raack/franchise-head/Untitled-2.png
+https://raackdance.com/images-raack/franchise-head/V-A-Niraimathee.png
+https://raackdance.com/images-raack/franchise-head/Venkat.png
+https://raackdance.com/images-raack/franchise-head/Vidya-Sureshkumar.png
+https://raackdance.com/images-raack/franchise-head/aiswarya.png
+https://raackdance.com/images-raack/franchise-head/anthony_raja.png
+https://raackdance.com/images-raack/franchise-head/aparna.png
+https://raackdance.com/images-raack/franchise-head/arun-kumar.png
+https://raackdance.com/images-raack/franchise-head/dilip-joshi.png
+https://raackdance.com/images-raack/franchise-head/kalpana-m.png
+https://raackdance.com/images-raack/franchise-head/krishna.png
+https://raackdance.com/images-raack/franchise-head/madhu.png
+https://raackdance.com/images-raack/franchise-head/murali.png
+https://raackdance.com/images-raack/franchise-head/muthu.png
+https://raackdance.com/images-raack/franchise-head/pavithra_B.png
+https://raackdance.com/images-raack/franchise-head/pradeep.png
+https://raackdance.com/images-raack/franchise-head/purni-magesh.png
+https://raackdance.com/images-raack/franchise-head/rajiv.png
+https://raackdance.com/images-raack/franchise-head/smitha.png
+https://raackdance.com/images-raack/franchise-head/sumathi.png
+https://raackdance.com/images-raack/franchise-head/supra.png
+https://raackdance.com/images-raack/franchise-head/vibinesh.png
+https://raackdance.com/images-raack/gallery/FirstStep-2026.jpg
+https://raackdance.com/images-raack/gallery/Velachery-banner-for-first-step-2026.jpg
+https://raackdance.com/images-raack/gallery/arrow.png
+https://raackdance.com/images-raack/gallery/dance-academy-in-chennai.png
+https://raackdance.com/images-raack/gallery/dance-classes-for-adults-in-chennai.png
+https://raackdance.com/images-raack/gallery/dance-classes-for-kids-in-chennai.png
+https://raackdance.com/images-raack/gallery/dance-classes-in-chennai.png
+https://raackdance.com/images-raack/gallery/first.png
+https://raackdance.com/images-raack/gallery/happy-feet-2025.jpg
+https://raackdance.com/images-raack/gallery/heal.png
+https://raackdance.com/images-raack/gif/banner.jpg
+https://raackdance.com/images-raack/gif/home-page-banner2.gif
+https://raackdance.com/images-raack/gif/home-page-banner3.gif
+https://raackdance.com/images-raack/gif/home-page-banner4.gif
+https://raackdance.com/images-raack/heal-world-images/best-dance-academy-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-class-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-class-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-classes-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-classes-for-adults-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-classes-for-kids-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-classes-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/best-dance-dance-academy-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-academy-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-academy-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-class-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-class-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-classes-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-classes-for-adults-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-classes-for-kids-in-chennai.jpg
+https://raackdance.com/images-raack/heal-world-images/dance-classes-in-chennai.jpg
+https://raackdance.com/images-raack/icon-location.png
+https://raackdance.com/images-raack/icon-mail.png
+https://raackdance.com/images-raack/icon-phone.png
+https://raackdance.com/images-raack/icons/Firststeppage.gif
+https://raackdance.com/images-raack/logo.png
+https://raackdance.com/images-raack/store-locater/bengaluru.jpg
+https://raackdance.com/images-raack/store-locater/chennai.jpg
+https://raackdance.com/images-raack/store-locater/chidambaram.jpg
+https://raackdance.com/images-raack/store-locater/cuddalore.jpg
+https://raackdance.com/images-raack/store-locater/kumbakonam.jpg
+https://raackdance.com/images-raack/store-locater/puducherry.jpg
+https://raackdance.com/images-raack/store-locater/thanjavur.jpg
+https://raackdance.com/images-raack/studio-bg-image/Avadi.png
+https://raackdance.com/images-raack/studio-bg-image/CUDDALORE.png
+https://raackdance.com/images-raack/studio-bg-image/Chidambaram.jpg
+https://raackdance.com/images-raack/studio-bg-image/Guduvanchery.png
+https://raackdance.com/images-raack/studio-bg-image/Keelkattalai.png
+https://raackdance.com/images-raack/studio-bg-image/Kelambakkam.png
+https://raackdance.com/images-raack/studio-bg-image/Kilpauk.png
+https://raackdance.com/images-raack/studio-bg-image/Kolathur.png
+https://raackdance.com/images-raack/studio-bg-image/Madambakkam.png
+https://raackdance.com/images-raack/studio-bg-image/Maraimalai-Nagar.png
+https://raackdance.com/images-raack/studio-bg-image/Medavakkam.png
+https://raackdance.com/images-raack/studio-bg-image/Mugalivakkam.png
+https://raackdance.com/images-raack/studio-bg-image/Mylapore.png
+https://raackdance.com/images-raack/studio-bg-image/Neelankarai.png
+https://raackdance.com/images-raack/studio-bg-image/Padur.png
+https://raackdance.com/images-raack/studio-bg-image/Pallikaranai.png
+https://raackdance.com/images-raack/studio-bg-image/Perungalathur.png
+https://raackdance.com/images-raack/studio-bg-image/Pondicherry.png
+https://raackdance.com/images-raack/studio-bg-image/Ramapuram.jpg
+https://raackdance.com/images-raack/studio-bg-image/Saidapet.png
+https://raackdance.com/images-raack/studio-bg-image/Sholinganallur.png
+https://raackdance.com/images-raack/studio-bg-image/Surapet.png
+https://raackdance.com/images-raack/studio-bg-image/Tambaram.png
+https://raackdance.com/images-raack/studio-bg-image/Thiruverkadu.jpg
+https://raackdance.com/images-raack/studio-bg-image/Thoraipakkam.png
+https://raackdance.com/images-raack/studio-bg-image/ambattur.jpg
+https://raackdance.com/images-raack/studio-bg-image/arumbakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/ayapakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/bangalore.png
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-iyyappanthangal.png
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-kandigai.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-kolapakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-kumbakonam.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-kundrathur.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-maduravoyal.png
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-mappedu.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-navalur.png
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-padappai.png
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-perumbakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-polachery.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-polachery1.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-pudupakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-sithalapakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-thanjavur.jpg
+https://raackdance.com/images-raack/studio-bg-image/dance-classes-in-vyasarpadi.jpg
+https://raackdance.com/images-raack/studio-bg-image/hasthinapuram.jpg
+https://raackdance.com/images-raack/studio-bg-image/mannivakkam.jpg
+https://raackdance.com/images-raack/studio-bg-image/mogappair.jpg
+https://raackdance.com/images-raack/studio-bg-image/oldpallavaram.jpg
+https://raackdance.com/images-raack/studio-bg-image/pammal.png
+https://raackdance.com/images-raack/studio-bg-image/velachery.png
+https://raackdance.com/images-raack/studios/arrow.png
+https://raackdance.com/images-raack/testimonial/athirai.png
+https://raackdance.com/images-raack/testimonial/elanthirayan.png
+https://raackdance.com/images-raack/testimonial/karthick.png
+https://raackdance.com/images-raack/testimonial/meenakshi.png
+https://raackdance.com/images-raack/testimonial/mudita-mehta.png
+https://raackdance.com/images-raack/testimonial/sivaranjani.png
+https://raackdance.com/images-raack/video/MJ-website.mp4
+https://raackdance.com/images-raack/video/first-step.mp4
+https://raackdance.com/images-raack/video/happy-feet.mp4
+https://raackdance.com/images-raack/video/summer-camp.mp4
+https://raackdance.com/js/custom/custom.js
+https://raackdance.com/js/custom/location.js
+https://raackdance.com/js/custom/location1.js
+https://raackdance.com/js/vendor/YTplayer.js
+https://raackdance.com/js/vendor/bootstrap.min.js
+https://raackdance.com/js/vendor/countdown/countdown.js
+https://raackdance.com/js/vendor/counter/counter-lib.js
+https://raackdance.com/js/vendor/counter/jquery.counterup.min.js
+https://raackdance.com/js/vendor/jquery.animateTyping.min.js
+https://raackdance.com/js/vendor/jquery.min.js
+https://raackdance.com/js/vendor/jquery.validate.min.js
+https://raackdance.com/js/vendor/lazyload.min.js
+https://raackdance.com/js/vendor/slider/owl-carousel.min.js
+https://raackdance.com/js/vendor/slider/owl-slider.js
+https://raackdance.com/js/vendor/slider/owl.carousel2.min.js
+https://raackdance.com/js/vendor/video/video.js
+https://raackdance.com/wght@14..32
