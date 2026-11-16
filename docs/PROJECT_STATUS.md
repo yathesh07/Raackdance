@@ -30,3 +30,6 @@
 - OpenStreetMap tiles are fine for launch-level traffic; switch `VITE_MAP_TILES_URL` to a keyed provider if traffic grows.
 - Real-device testing (iOS Safari, low-end Android) and Lighthouse on the staging CDN should be run during staging.
 - `three` chunk is ~930 kB (≈248 kB gzip) but loads only after first paint and is skipped when WebGL is unavailable.
+
+## Changelog
+- 16 Nov 2026 — Online classes removed (owner confirmed Raack is offline-only): Online Academy page, nav item, homepage section and online enquiry option removed; `/online-academy`, `/online-dance-classes.html` → `/studios`, `/enquiry-form.html` → `/book-a-free-trial`. Menu overlay switched to ivory. Studio finder: program filter removed; search now geocodes any typed area/landmark/pincode (OpenStreetMap Nominatim) and lists the nearest studios. Hero/heading descender clipping fixed. Phone removed from top nav; Careers & Franchise added.

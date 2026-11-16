@@ -21,7 +21,6 @@ page('/', 'home', '<h1>Raack Academy of Dance</h1><p>The Amplifiers of Dance As 
 page('/about', 'about', '<h1>About Raack</h1>')
 page('/programs', 'programs', '<h1>Dance programs</h1><ul>' + seed.programs.map((p) => `<li><a href="/programs/${p.slug}">${esc(p.name)} (${esc(p.age_group)})</a></li>`).join('') + '</ul>', 0.9)
 page('/studios', 'studios', '<h1>Find a Raack studio</h1><ul>' + seed.studios.map((s) => `<li><a href="/studios/${s.slug}">Raack ${esc(s.name)}, ${esc(s.city)}</a></li>`).join('') + '</ul>', 0.9)
-page('/online-academy', 'online-academy', '<h1>Raack Online Academy</h1>')
 page('/events', 'events', '<h1>Events & Experiences</h1><ul>' + seed.events.map((e) => `<li><a href="/events/${e.slug}">${esc(e.name)}</a></li>`).join('') + '</ul>')
 page('/faculty-academy', 'faculty-academy', '<h1>Faculties Training Academy</h1>', 0.6)
 page('/gallery', 'gallery', '<h1>Gallery</h1>', 0.6)

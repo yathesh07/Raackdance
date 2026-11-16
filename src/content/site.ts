@@ -139,27 +139,6 @@ export const testimonials: Testimonial[] = [
   },
 ]
 
-export const onlineAcademy = {
-  title: 'Connecting Tamils Globally Through the Art of Dance',
-  subtitle: 'Raack Academy of Dance: Now at Your Home, Wherever You Are!',
-  intro:
-    "Experience the magic of dance with Raack Academy, now closer than ever! We are thrilled to announce our exclusive online dance classes, specially designed for the global Tamil community. No matter where you are in the world, you can now immerse yourself in the joy of dance, guided by one of the most trusted names in the industry.",
-  features: [
-    { title: 'Global Access', body: "Learn from anywhere in the world with Raack Academy's expert online classes." },
-    { title: 'Structured Curriculum', body: 'A step-by-step program tailored for students, based on age.' },
-    { title: 'Expert Training', body: 'Get coached by top choreographers with 25+ years of experience.' },
-    { title: 'Flexible Learning', body: 'Access live sessions or recorded lessons at your convenience.' },
-    { title: 'Community Connection', body: 'Join a global Tamil dance community celebrating culture and passion.' },
-  ],
-  belief:
-    "At Raack Academy, we believe that dance transcends borders and unites hearts. Our online classes are not just about learning steps — they're about celebrating identity, building confidence, and sharing joy.",
-  closing: "Dance your way into the Raack Academy family today. Let's keep the rhythm alive, no matter where life takes you!",
-  eventSupport:
-    'At Raack Academy, we go beyond dance — we craft moments that resonate and memories that linger. With our complete event support, your special occasion is guaranteed to shine brighter than ever.',
-  classTypes: ['One on One', 'Batch', 'Group for Tamil School', 'Group Class for Tamil Sangam', 'Event Support'],
-  trialCopy: "Take the first step toward an unforgettable dance journey. We can't wait to see you on the virtual dance floor!",
-}
-
 export const facultyAcademy = {
   title: "Raack Academy's Faculties Training Academy",
   eyebrow: 'Become A Coach',

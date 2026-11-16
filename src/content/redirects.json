@@ -21,8 +21,8 @@
  "/dance-academy-in-chennai.html": "/careers",
  "/dance-classes-for-kids-in-chennai.html": "/franchise",
  "/dance-classes-for-adults-in-chennai.html": "/contact",
- "/online-dance-classes.html": "/online-academy",
- "/enquiry-form.html": "/book-a-free-trial?type=online",
+ "/online-dance-classes.html": "/studios",
+ "/enquiry-form.html": "/book-a-free-trial",
  "/mail/conmail.php": "/contact",
  "/mail/conmail-studio.php": "/contact",
  "/mail/conmail-careers.php": "/careers",
@@ -79,5 +79,6 @@
  "/studios-thoraipakkam.html": "/studios/thoraipakkam",
  "/studios-urapakkam.html": "/studios/urapakkam",
  "/studios-velachery.html": "/studios/velachery",
- "/studios-vyasarbadi.html": "/studios/vyasarpadi"
+ "/studios-vyasarbadi.html": "/studios/vyasarpadi",
+ "/online-academy": "/studios"
 }

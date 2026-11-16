@@ -8,7 +8,6 @@ const Programs = lazy(() => import('@/pages/Programs'))
 const ProgramDetail = lazy(() => import('@/pages/ProgramDetail'))
 const Studios = lazy(() => import('@/pages/Studios'))
 const StudioDetail = lazy(() => import('@/pages/StudioDetail'))
-const OnlineAcademy = lazy(() => import('@/pages/OnlineAcademy'))
 const Events = lazy(() => import('@/pages/Events'))
 const EventDetail = lazy(() => import('@/pages/EventDetail'))
 const FacultyAcademy = lazy(() => import('@/pages/FacultyAcademy'))
@@ -34,7 +33,6 @@ const router = createBrowserRouter([
       { path: '/programs/:slug', element: S(<ProgramDetail />) },
       { path: '/studios', element: S(<Studios />) },
       { path: '/studios/:slug', element: S(<StudioDetail />) },
-      { path: '/online-academy', element: S(<OnlineAcademy />) },
       { path: '/events', element: S(<Events />) },
       { path: '/events/:slug', element: S(<EventDetail />) },
       { path: '/faculty-academy', element: S(<FacultyAcademy />) },

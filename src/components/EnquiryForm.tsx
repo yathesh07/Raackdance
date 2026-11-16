@@ -13,15 +13,13 @@ import { Turnstile } from './Turnstile'
 import { cn } from '@/lib/utils'
 
 export const COUNTRY_CODES = ['+91', '+1', '+44', '+61', '+65', '+60', '+971', '+974', '+966', '+968', '+973', '+965', '+94', '+33', '+49', '+41', '+31', '+64', '+27', '+81']
-const CLASS_TYPES = ['One on One', 'Batch', 'Group for Tamil School', 'Group Class for Tamil Sangam', 'Event Support']
-const HEARD = ['Social Media', 'Website', 'Friend/Family', 'Advertisement', 'Reference']
 const POSITIONS = ['Instructor', 'Counsellor', 'Branch Manager', 'Designer', 'Video Editor']
 
 const TYPE_LABEL: Record<EnquiryType, string> = {
   trial: 'Book a free trial', program: 'Program enquiry', studio: 'Studio enquiry', general: 'General enquiry', online: 'Online academy',
   franchise: 'Franchise', careers: 'Careers', event: 'Event', faculty: 'Faculty academy',
 }
-const PUBLIC_TYPES: EnquiryType[] = ['trial', 'program', 'studio', 'online', 'general']
+const PUBLIC_TYPES: EnquiryType[] = ['trial', 'program', 'studio', 'general']
 
 const schema = z
   .object({
@@ -47,7 +45,7 @@ const schema = z
   })
   .superRefine((v, ctx) => {
     const need = (k: keyof typeof v, msg: string) => { if (!v[k]) ctx.addIssue({ code: 'custom', path: [k], message: msg }) }
-    if (v.type === 'trial') { need('program_slug', 'Choose a program'); need('studio_slug', 'Choose a studio or Online') }
+    if (v.type === 'trial') { need('program_slug', 'Choose a program'); need('studio_slug', 'Choose a studio') }
     if (v.type === 'program') need('program_slug', 'Choose a program')
     if (v.type === 'studio') need('studio_slug', 'Choose a studio')
     if (v.type === 'online') { need('state', 'Enter your state/region'); need('class_type', 'Choose a class type'); need('preferred_timing', 'Enter a preferred time') }
@@ -78,8 +76,7 @@ export function EnquiryForm({
     try {
       const a = getAttribution()
       await repo.submitEnquiry({
-        ...v, studio_slug: v.studio_slug === 'online' ? null : v.studio_slug || null,
-        type: v.studio_slug === 'online' && v.type === 'trial' ? 'online' : v.type,
+        ...v, studio_slug: v.studio_slug || null,
         utm: a.utm ?? {}, referrer: a.referrer, landing_page: a.landing_page, source_page: window.location.pathname, captchaToken: token,
       } as any)
       setDone(v.name.split(' ')[0]); reset({ type, country_code: '+91', ...defaults } as any)
@@ -135,7 +132,6 @@ export function EnquiryForm({
                 <Fld e={errors} d={dark} name="studio_slug" label={t === 'careers' ? 'Preferred location' : 'Studio *'}>
                   <select id="f-studio_slug" className={field} {...register('studio_slug')}>
                     <option value="">{t === 'careers' ? 'Any location' : 'Select a studio'}</option>
-                    {t === 'trial' && <option value="online">Online (from anywhere)</option>}
                     {[...new Set(sortedStudios.map((s) => s.city))].map((c) => (
                       <optgroup key={c} label={c}>{sortedStudios.filter((s) => s.city === c).map((s) => <option key={s.slug} value={s.slug}>{s.name}</option>)}</optgroup>
                     ))}
@@ -146,23 +142,12 @@ export function EnquiryForm({
               {t === 'careers' && (
                 <Fld e={errors} d={dark} name="position" label="Position *"><select id="f-position" className={field} {...register('position')}><option value="">Select a position</option>{POSITIONS.map((p) => <option key={p}>{p}</option>)}</select></Fld>
               )}
-              {t === 'online' && (
-                <>
-                  <Fld e={errors} d={dark} name="gender" label="Gender"><select id="f-gender" className={field} {...register('gender')}><option value="">Prefer not to say</option><option>Male</option><option>Female</option><option>Other</option></select></Fld>
-                  <Fld e={errors} d={dark} name="whatsapp" label="WhatsApp number (if different)"><input id="f-whatsapp" inputMode="tel" className={field} placeholder="Same as mobile" {...register('whatsapp')} /></Fld>
-                  <Fld e={errors} d={dark} name="country" label="Country"><input id="f-country" className={field} placeholder="India" {...register('country')} /></Fld>
-                  <Fld e={errors} d={dark} name="state" label="State / region *"><input id="f-state" className={field} placeholder="Your state" {...register('state')} /></Fld>
-                  <Fld e={errors} d={dark} name="class_type" label="Type of class *"><select id="f-class_type" className={field} {...register('class_type')}><option value="">Select type of class</option>{CLASS_TYPES.map((c) => <option key={c}>{c}</option>)}</select></Fld>
-                  <Fld e={errors} d={dark} name="preferred_timing" label="Preferred trial timing *"><input id="f-preferred_timing" className={field} placeholder="e.g. Sat 10 AM GMT+4" {...register('preferred_timing')} /></Fld>
-                  <Fld e={errors} d={dark} name="heard_from" label="How did you hear about us?"><select id="f-heard_from" className={field} {...register('heard_from')}><option value="">Select</option>{HEARD.map((c) => <option key={c}>{c}</option>)}</select></Fld>
-                </>
-              )}
               {(t === 'franchise') && <Fld e={errors} d={dark} name="state" label="Preferred city / area"><input id="f-state" className={field} placeholder="Where would you open a studio?" {...register('state')} /></Fld>}
             </div>
 
-            {['general', 'franchise', 'faculty', 'event', 'online', 'careers', 'studio', 'program'].includes(t) && (
-              <Fld e={errors} d={dark} name="message" label={t === 'online' ? 'Your interest / purpose for learning' : t === 'careers' ? 'Tell us about yourself (links to videos/portfolio welcome)' : ['general', 'franchise', 'faculty', 'event'].includes(t) ? 'Message *' : 'Message'}>
-                <textarea id="f-message" rows={compact ? 3 : 4} className={field} placeholder={t === 'online' ? 'E.g. fitness, passion for dance, cultural interest, or professional growth' : 'How can we help?'} {...register('message')} />
+            {['general', 'franchise', 'faculty', 'event', 'careers', 'studio', 'program'].includes(t) && (
+              <Fld e={errors} d={dark} name="message" label={t === 'careers' ? 'Tell us about yourself (links to videos/portfolio welcome)' : ['general', 'franchise', 'faculty', 'event'].includes(t) ? 'Message *' : 'Message'}>
+                <textarea id="f-message" rows={compact ? 3 : 4} className={field} placeholder="How can we help?" {...register('message')} />
               </Fld>
             )}
 

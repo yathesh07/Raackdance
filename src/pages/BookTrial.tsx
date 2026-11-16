@@ -6,7 +6,7 @@ import { Reveal, RevealLines } from '@/components/Motion'
 import type { EnquiryType } from '@/lib/types'
 import { RibbonFallback } from '@/three/Hero3D'
 
-const VALID: EnquiryType[] = ['trial', 'program', 'studio', 'online', 'general', 'franchise', 'careers', 'event', 'faculty']
+const VALID: EnquiryType[] = ['trial', 'program', 'studio', 'general', 'franchise', 'careers', 'event', 'faculty']
 
 export default function BookTrial() {
   const [sp] = useSearchParams()
@@ -24,7 +24,7 @@ export default function BookTrial() {
             <Reveal delay={0.2}><p className="lead mt-6">Tell us a little about the dancer and your nearest studio — a Raack counsellor will call you to schedule a free trial.</p></Reveal>
             <Reveal delay={0.3}>
               <ul className="mt-8 space-y-3">
-                {['Programs from 3 years to adults', 'Studios across South India + online worldwide', 'Counsellors guide you to the right course'].map((x) => <li key={x} className="flex items-center gap-3"><span className="grid h-6 w-6 place-items-center rounded-full bg-accent text-white"><Check className="h-3.5 w-3.5" /></span>{x}</li>)}
+                {['Programs from 3 years to adults', '45+ studios across South India', 'Counsellors guide you to the right course'].map((x) => <li key={x} className="flex items-center gap-3"><span className="grid h-6 w-6 place-items-center rounded-full bg-accent text-white"><Check className="h-3.5 w-3.5" /></span>{x}</li>)}
               </ul>
             </Reveal>
           </div>

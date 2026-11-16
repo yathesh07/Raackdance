@@ -33,7 +33,7 @@ export default function ProgramDetail() {
             <Reveal delay={0.15}><p className="mt-6 font-display text-2xl italic text-charcoal">{p.tagline}</p></Reveal>
             <Reveal delay={0.2}><p className="lead mt-5 max-w-xl">{p.description}</p></Reveal>
             {p.notice && <Reveal delay={0.25}><p className="mt-5 flex max-w-xl items-start gap-2 rounded-xl bg-white/70 p-4 text-sm text-charcoal"><Info className="mt-0.5 h-4 w-4 shrink-0 text-accent" />{p.notice}</p></Reveal>}
-            <Reveal delay={0.3}><div className="mt-8 flex flex-wrap gap-3"><a href="#register" className="btn-primary">Register now</a><Link to={`/studios?program=${p.slug}`} className="btn-ghost">Studios offering {p.name}</Link></div></Reveal>
+            <Reveal delay={0.3}><div className="mt-8 flex flex-wrap gap-3"><a href="#register" className="btn-primary">Register now</a>{offering.length > 0 && <a href="#where" className="btn-ghost">Studios offering {p.name}</a>}</div></Reveal>
           </div>
           <Reveal delay={0.1}>
             <Tilt className="mx-auto max-w-lg rounded-[2rem]" max={6}>
@@ -74,7 +74,7 @@ export default function ProgramDetail() {
       )}
 
       {offering.length > 0 && (
-        <section className="section">
+        <section className="section" id="where">
           <div className="container-x">
             <span className="eyebrow">Where to learn</span>
             <h2 className="display-md mt-4">{offering.length} studios list {p.name} classes</h2>

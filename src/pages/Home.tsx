@@ -1,10 +1,10 @@
 import { lazy, Suspense, useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'motion/react'
-import { ArrowRight, ArrowUpRight, ChevronLeft, ChevronRight, Globe2, MapPin, Quote, Search, Sparkles } from 'lucide-react'
+import { ArrowRight, ArrowUpRight, ChevronLeft, ChevronRight, MapPin, Quote, Search, Sparkles } from 'lucide-react'
 import Hero3D from '@/three/Hero3D'
 import { useContent } from '@/lib/content'
-import { about, onlineAcademy } from '@/content/site'
+import { about } from '@/content/site'
 import { Seo } from '@/components/Seo'
 import { Counter, Magnetic, Parallax, Reveal, RevealLines, Tilt } from '@/components/Motion'
 import { SectionHeading } from '@/components/Section'
@@ -25,7 +25,6 @@ export default function Home() {
       <Programs />
       <WhyRaack />
       <StudioFinder />
-      <Online />
       <Leadership />
       <Events />
       <GalleryStrip />
@@ -57,7 +56,7 @@ function Hero() {
         </motion.div>
         <h1 className="mt-7 max-w-5xl font-display text-[clamp(3.3rem,10vw,9.5rem)] font-[380] leading-[0.88] tracking-[-0.045em]" style={{ perspective: 1000 }}>
           {[home.heroLine1, home.heroLine2].map((l, i) => (
-            <span key={i} className="block overflow-hidden pb-[0.06em]">
+            <span key={i} className="-mb-[0.16em] block overflow-hidden pb-[0.22em] pr-[0.08em]">
               <motion.span className={`block origin-bottom ${i === 1 ? 'italic text-accent' : ''}`}
                 initial={{ y: '110%', rotateX: -80 }} animate={{ y: '0%', rotateX: 0 }} transition={{ delay: 0.25 + i * 0.15, duration: 1.3, ease: [0.16, 1, 0.3, 1] }}>
                 {l}
@@ -178,7 +177,7 @@ function WhyRaack() {
     { k: '03', t: 'Coaches trained in-house', b: 'Our Faculties Training Academy equips instructors with versatile teaching methods, expert technique and tailored creativity for every age group.' },
     { k: '04', t: 'A stage for every dancer', b: 'From Happy Feet to the First Step annual recital, students perform, compete and grow in confidence on real stages.' },
     { k: '05', t: 'Safe, welcoming studios', b: 'Our counsellors guide families to the right course, in a secure and welcoming environment for parents and students alike.' },
-    { k: '06', t: `${studios ? studios.value + studios.suffix : '45+'} studios near you`, b: 'Studios across Chennai, Puducherry, Cuddalore, Chidambaram, Thanjavur, Kumbakonam, Tiruchirappalli and Bengaluru — plus online classes worldwide.' },
+    { k: '06', t: `${studios ? studios.value + studios.suffix : '45+'} studios near you`, b: 'Studios across Chennai, Puducherry, Cuddalore, Chidambaram, Thanjavur, Kumbakonam, Tiruchirappalli and Bengaluru.' },
   ]
   return (
     <section className="dark-section section relative overflow-hidden">
@@ -228,28 +227,6 @@ function StudioFinder() {
             <Suspense fallback={<div className="h-full w-full animate-pulse bg-pearl" />}><StudioMap studios={studios} onSelect={(s) => nav(`/studios/${s}`)} /></Suspense>
           </div>
         </Reveal>
-      </div>
-    </section>
-  )
-}
-
-function Online() {
-  return (
-    <section className="relative overflow-hidden bg-pearl section grain">
-      <div className="container-x grid gap-14 lg:grid-cols-[1.1fr_1fr] lg:items-center">
-        <div>
-          <Reveal><span className="eyebrow"><Globe2 className="h-3.5 w-3.5" />Online Academy</span></Reveal>
-          <RevealLines lines={['Connecting Tamils', 'globally through', <em key="a" className="text-accent">the art of dance.</em>]} className="display-lg mt-5" />
-          <Reveal delay={0.2}><p className="lead mt-7 max-w-xl">{onlineAcademy.intro}</p></Reveal>
-          <Reveal delay={0.3}><div className="mt-9 flex flex-wrap gap-3"><Link to="/online-academy" className="btn-dark">Explore Online Academy <ArrowRight className="h-4 w-4" /></Link><Link to="/book-a-free-trial?type=online" className="btn-ghost">Free online trial</Link></div></Reveal>
-        </div>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {onlineAcademy.features.map((f, i) => (
-            <Reveal key={f.title} delay={i * 0.06} className={i === 4 ? 'sm:col-span-2' : ''}>
-              <div className="card card-hover h-full p-6"><span className="font-display text-sm text-accent">0{i + 1}</span><h3 className="mt-3 font-display text-xl">{f.title}</h3><p className="mt-2 text-sm text-muted">{f.body}</p></div>
-            </Reveal>
-          ))}
-        </div>
       </div>
     </section>
   )

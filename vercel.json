@@ -114,12 +114,12 @@
     },
     {
       "source": "/online-dance-classes.html",
-      "destination": "/online-academy",
+      "destination": "/studios",
       "permanent": true
     },
     {
       "source": "/enquiry-form.html",
-      "destination": "/book-a-free-trial?type=online",
+      "destination": "/book-a-free-trial",
       "permanent": true
     },
     {
@@ -405,6 +405,11 @@
     {
       "source": "/studios-vyasarbadi.html",
       "destination": "/studios/vyasarpadi",
+      "permanent": true
+    },
+    {
+      "source": "/online-academy",
+      "destination": "/studios",
       "permanent": true
     }
   ],

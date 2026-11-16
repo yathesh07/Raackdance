@@ -24,7 +24,7 @@ export function RevealLines({ lines, className, lineClass, delay = 0, as = 'h2' 
     <Tag className={className} style={{ perspective: 900 }} initial="hidden" whileInView="show" viewport={{ once: true, margin: '-40px' }}
       variants={{ hidden: {}, show: { transition: { staggerChildren: 0.12, delayChildren: delay } } }}>
       {lines.map((l, i) => (
-        <span key={i} className="block overflow-hidden pb-[0.08em]">
+        <span key={i} className="-mb-[0.12em] block overflow-hidden pb-[0.2em] pr-[0.06em]">
           <motion.span
             className={cn('block origin-bottom', lineClass)}
             variants={{ hidden: { y: '105%', rotateX: -70, opacity: 0 }, show: { y: '0%', rotateX: 0, opacity: 1, transition: { duration: 1.1, ease: [0.16, 1, 0.3, 1] } } }}
